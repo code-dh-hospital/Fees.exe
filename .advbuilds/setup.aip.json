@@ -1,0 +1,16 @@
+{
+   "MainExe": "Fees.exe",
+   "ProductDetail": {
+      "ProductName": "DHG.Hospital Fees"      
+   },
+   "AdvancedInstallerShortcut": {
+      "Name": "DHG.Hospital Fees",
+      "Target": "APPDIR\\Fees.exe",
+      "InDirectories": ["DesktopFolder", "StartMenuFolder\\DHG Pharma"],
+      "PathIcon": "Logo.ico"
+   },
+   "IconInControlPanel": {
+      "IsSetIcon": true,
+      "PathIcon": "Logo.ico"
+   }
+}

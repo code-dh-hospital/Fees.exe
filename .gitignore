@@ -1,0 +1,5 @@
+package.json
+Fees.exe.xml
+.advinst/*
+.azure/push.sh
+.build-tools/*
