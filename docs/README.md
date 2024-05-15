@@ -5,17 +5,7 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## [v.3.24.0515.5]()
-- ✨: Đổi mới
-## [v.3.24.0515.4]()
-- ✨: Thay đổi 
-## [v.3.24.0515.3]()
-- ✨: Thử đưa thông tin docs
-## [v.3.24.0515.2]()
-- ✨: Thử chuyển đổi docs/README.md
-## [v.3.24.0515.1]()
-- ✨: Thử chức năng mới
-## [v.3.24.0515.0]()
+## [v.3.24.0515.6]()
 - 🐛: Lỗi - Gen mã QR sai thông tin
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/181
 
