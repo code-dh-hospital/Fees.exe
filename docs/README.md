@@ -5,6 +5,8 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
+## [v.3.24.0515.13]()
+- ✨: Thử tạo direct Link
 ## [v.3.24.0515.12]()
 - 🐛: Lỗi - Gen mã QR sai thông tin
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/181
