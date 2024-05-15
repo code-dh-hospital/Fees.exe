@@ -5,6 +5,10 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
+## 3.24.0515.19 [⬇️](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F324051519-OneDrive.json) [⬇️](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F324051519-GoogleStorage.json) [⬇️](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F324051519-NasDHSolutions.json)
+- ✨: Lan nua
+## [v.3.24.0515.18]()
+- ✨: Thử change
 ## [v.3.24.0515.17]()
 - ✨: Thử lần 16
 ## [v.3.24.0515.16]()
@@ -13,7 +17,7 @@
 - ✨: Thử directLink
 ## [v.3.24.0515.14]()
 - ✨: Thử directlink
-## [v.3.24.0515.13]()   [⬇️➀](https://dh-hos-code.github.io/directTo/?&redirect_url=)  [⬇️②](https://dh-hos-code) [⬇️⓷](https://dh-hos-code)
+## v.3.24.0515.13 [⬇️](https://dh-hos-code.github.io/directTo/?&redirect_url=)  [⬇️](https://dh-hos-code) [⬇️](https://dh-hos-code)
 - ✨: Thử tạo direct Link
 ## [v.3.24.0515.12]()
 - 🐛: Lỗi - Gen mã QR sai thông tin
