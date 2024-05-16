@@ -5,49 +5,10 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0516.8 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405168-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405168-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405168-NasDHSolutions.json)
-- 🐛: Lỗi - Gen mã QR sai thông tin
-- ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/181
-## [v.3.24.0516.7]()
-- 🐛: Lỗi - Gen mã QR sai thông tin
-- ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/181
-## [v.3.24.0516.6]()
-- 🐛: Lỗi - Gen mã QR sai thông tin
-- ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/181
-## [v.3.24.0516.5]()
-- 🐛: Lỗi - Gen mã QR sai thông tin
-- ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/181
-## [v.3.24.0516.4]()
-- 🐛: Lỗi - Gen mã QR sai thông tin
-- ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/181
-## [v.3.24.0516.3]()
-- 🐛: Lỗi - Gen mã QR sai thông tin
-- ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/181
-## [v.3.24.0516.2]()
-- 🐛: Lỗi - Gen mã QR sai thông tin
-- ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/181
-## [v.3.24.0516.1]()
-- 🐛: Cập nhật direct link cho khách hàng
-## [v.3.24.0516.0]()
-- 🐛: Thử comment đầu ra
-## [v.3.24.0515.20]()
-- ✨: Ghi nhận mô tả tính năng, chức năng mới
-## [v.3.24.0515.19]()
-- ✨: Lan nua
-## [v.3.24.0515.18]()
-- ✨: Thử change
-## [v.3.24.0515.17]()
-- ✨: Thử lần 16
-## [v.3.24.0515.16]()
-- ✨: Thử directLink
-## [v.3.24.0515.15]()
-- ✨: Thử directLink
-## [v.3.24.0515.14]()
-- ✨: Thử directlink
-## v.3.24.0515.13 [⬇️](https://dh-hos-code.github.io/directTo/?&redirect_url=)  [⬇️](https://dh-hos-code) [⬇️](https://dh-hos-code)
-- ✨: Thử tạo direct Link
-## [v.3.24.0515.12]()
-- 🐛: Lỗi - Gen mã QR sai thông tin
+## 3.24.0516.9 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405169-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405169-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405169-NasDHSolutions.json)
+- 🐛: Fix Lỗi - Gen mã QR sai thông tin
+- 🐛: Fix Lỗi - System.MissingMethodException: Method not found: 'Void OTH.PAY.ViettinBank.QRCode.ShowQR.ShowOnSecondScreenByQRPay  
+![image](https://i.imgur.com/Z9DeYjy.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/181
 
 ##### [v3.23.1218.1]()
