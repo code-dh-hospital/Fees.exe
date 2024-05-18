@@ -5,7 +5,16 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0517.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405172-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405172-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405172-NasDHSolutions.json)
+## 3.24.0518.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405180-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405180-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405180-NasDHSolutions.json)
+- 🐛: Fix lỗi `Phiên bản :2024.05.18.151708PM
+System.ArgumentException: Field must be specified in the group before adding it to the collection.
+   at Janus.Data.JanusGroupCollectionBase.OnInsert(Int32 index, Object value)
+   at Janus.Data.JanusCollectionBase.System.Collections.IList.Add(Object value)
+   at Janus.Windows.GridEX.GridEXGroupCollection.Add(GridEXGroup group)
+   at HosFees.ReportsV2.ReportForms.FrmBKThuChi.loadData()` 
+![](https://i.imgur.com/6tM7xtY.png)
+- ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/162
+## [v.3.24.0517.2]()
 - 🐛: Fix lỗi khi chọn [Tạm ứng] ![image](https://i.imgur.com/309zyyK.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/182
 ## [v.3.24.0517.1]()
