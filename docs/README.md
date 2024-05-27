@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0525.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405250-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405250-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405250-NasDHSolutions.json)
+## 3.24.0527.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405270-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405270-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32405270-NasDHSolutions.json)
+- 🐛: Fix lỗi mất % lý do thu
+- 🐛: Fix xuống dòng địa chỉ trên phiếu thu
+- ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/171
+- ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/183
+## [v.3.24.0525.0]()
 - 🐛: Mở rộng text in địa chỉ trên phiếu thu
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/171
 ## [v.3.24.0524.0]()
