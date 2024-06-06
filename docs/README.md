@@ -5,7 +5,13 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0605.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32406051-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32406051-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32406051-NasDHSolutions.json)
+## 3.24.0606.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32406060-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32406060-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32406060-NasDHSolutions.json)
+- ✨: Kiểm tra nếu số thực thu nhỏ hơn 0, mà có bật tham số lapchungtu0dong = 1, sẽ gán lại giá trị 0
+- 🐛: Lỗi - Không lập được phiếu thu 0 đồng (khi sử dụng tham số lapchungtu0dong = 1) bv lấp vò
+- Do bệnh viện sử dụng chức năng tách hóa đơn, nên cũng phải tách 2 phần thành miễn giảm và thất thu để xử lý cho mỗi phiếu thu. Hướng dẫn video dưới đây.
+- ![](https://i.imgur.com/oiWRBD6.gif)
+- ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/178
+## [v.3.24.0605.1]()
 - ✨: Hỗ trợ kiểm tra Đã có phiếu thu sử dụng tiền tạm ứng của bệnh nhân thì không cho phép xóa phiếu này
 - ![](https://i.imgur.com/OSbEZqV.png)
 - 🐛: Hỗ trợ Lỗi Thu tiền nội trú thể hiện sai chi phí thu thêm 
