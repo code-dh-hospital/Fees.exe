@@ -5,7 +5,13 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0626.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32406260-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32406260-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32406260-NasDHSolutions.json)
+## 3.24.0704.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32407040-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32407040-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32407040-NasDHSolutions.json)
+
+- ✨: Yêu cầu thực hiện Theo mô tả - MÔ TẢ QUY TRÌNH TRẢ THUỐC/VTYT NGƯỜI BỆNH ĐIỀU TRỊ NỘI TRÚ
+- Lấy thêm thông tin sohdx trên pshdxn để xử lý cấn trừ (lấy toàn bộ thông tin hóa đơn xuất, để áp cho hóa đơn trả, trừ số lượng và tiền)
+- ![](https://i.imgur.com/gl8HMmF.png) ![](https://i.imgur.com/lGPu2tj.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/405
+## [v.3.24.0626.0]()
 
 - 🐛: Lỗi - Fees tính sai tiền cung chi trả đối với bệnh nhân đã có phiếu thu (BV Tâm Phúc)
 ![](https://i.imgur.com/SotusD3.png)
