@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0801.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32408010-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32408010-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32408010-NasDHSolutions.json)
+## 3.24.0802.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32408020-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32408020-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32408020-NasDHSolutions.json)
+- ✨: Yêu cầu - BV Phụ Sản: Yêu cầu bổ sung Tên đơn vị vào báo cáo Chi tiết chi phí nội bộ
+- ![](https://i.imgur.com/2ZdUTcM.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/563
+## [v.3.24.0801.0]()
 - 🐛: Yêu cầu - Kiểm lỗi Fees trùng trong báo cáo Chi tiết theo dịch vụ
 - ![](https://i.imgur.com/eg5ed2W.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/561
