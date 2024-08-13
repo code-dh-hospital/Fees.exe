@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0803.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32408030-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32408030-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32408030-NasDHSolutions.json)
+## 3.24.0813.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32408130-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32408130-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32408130-NasDHSolutions.json)
+- 🐛: **Chỉnh lỗi**: **_Lỗi - PHÁT SINH LỖI KHI LẬP PHIẾU THU BỆNH NHÂN CÓ THUỐC NHÀ THUỐC_** ![](https://i.imgur.com/vtnY1MM.png)
+- ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/192
+
+## [v.3.24.0803.0]()
 - ✨: Yêu cầu - BV Phụ Sản: Yêu cầu bổ sung Tên đơn vị vào báo cáo Chi tiết chi phí nội bộ
 - ![](https://i.imgur.com/2ZdUTcM.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/563
