@@ -5,7 +5,30 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0825.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32408250-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32408250-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32408250-NasDHSolutions.json)
+## 3.24.0911.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32409110-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32409110-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32409110-NasDHSolutions.json)
+- ✨: Hướng dẫn ẩn QRCODE khi không có QRData (chuỗi rỗng), mục đích người dùng không quét được khi QRData không hợp lệ
+- ![](https://i.imgur.com/aAmpeQO.png) ![](https://i.imgur.com/i4Xc9w0.png)
+- Script hỗ trợ ẩn QRCODE khi rỗng
+```
+// Sự kiện BeforePrint để kiểm tra và ẩn/hiển thị QRCode
+private void HideIfEmpty_qrCodeControl_BeforePrint(object sender, System.Drawing.Printing.PrintEventArgs e)
+{
+    DevExpress.XtraReports.UI.XRBarCode qrCodeControl = sender as DevExpress.XtraReports.UI.XRBarCode
+    // Kiểm tra nếu dữ liệu rỗng thì ẩn control
+    if (string.IsNullOrEmpty(qrCodeControl.Text))
+    {
+        qrCodeControl.Visible = false; // Ẩn QRCode nếu không có dữ liệu
+    }
+    else
+    {
+        qrCodeControl.Visible = true; // Hiển thị QRCode nếu có dữ liệu
+    }
+}
+```
+- ✨: **💼**: **_Yêu cầu - FEES - Triển khai thanh toán mã QR MOMO_**
+- ✨: Xử lý trả về chuỗi QRdata rỗng khi cấu hình không chính xác
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/416
+## [v.3.24.0825.0]()
 - ✨: Bổ sung trang thể hiện mã QR tự thiết kế (đăng nhập tài khoản admin sẽ hỏi trang thiết kế) đối với mã khách hàng không thuộc mẫu mặc định đã thiết kế riêng (**_92001,51214,70071,95006,92118_**)
 ![](https://i.imgur.com/13A5cXo.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/193
