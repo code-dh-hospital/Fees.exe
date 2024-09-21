@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0918.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32409181-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32409181-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32409181-NasDHSolutions.json)
+## 3.24.0921.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32409210-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32409210-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32409210-NasDHSolutions.json)
+- 🐛: **💼**: **_Lỗi - Fees thu tiền nhà thuốc toa bán lẽ bị âm tiền (BV Lấp Vò)_**
+- 🐛: Chỉnh lỗi lấy sai số tiền (âm tiền) ![](https://i.imgur.com/NGswkHe.png) ![](https://i.imgur.com/C0Ek3Xm.png)
+- ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/197
+## [v.3.24.0918.1]()
 - ✨: **💼**: **_Yêu cầu - Bổ sung loại chi phí Không chịu thuế lên HĐĐT-Viettel_**
 - ✨: Thêm chức năng cấu hình thuế suất với giá trị tùy chọn ![](https://i.imgur.com/B19dIVh.png)![](https://i.imgur.com/O6l0psK.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/195
