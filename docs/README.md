@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0930.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32409300-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32409300-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32409300-NasDHSolutions.json)
+## 3.24.1002.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410020-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410020-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410020-NasDHSolutions.json)
+- 🐛: **💼**: **_Lỗi - Load thông tin bệnh nhân nội trú để thu tiền (BV Ô Môn)_**
+- 🐛: Chỉnh lỗi khi chọn bệnh nhân ![](https://i.imgur.com/tTxRmpM.png)
+- ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/200
+## [v.3.24.0930.0]()
 - 🐛: **💼**: **_Lỗi - Chức năng Thu tự do không tìm kiếm được bệnh nhân (BV Phụ Sản)_**
 - 🐛: Chỉnh lỗi không tìm kiếm được ![](https://i.imgur.com/ucwStGT.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/199
