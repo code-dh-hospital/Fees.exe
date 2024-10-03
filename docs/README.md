@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1002.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410020-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410020-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410020-NasDHSolutions.json)
+## 3.24.1003.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410030-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410030-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410030-NasDHSolutions.json)
+- 🐛: **💼**: **_Lỗi - BC Bảng kê chênh lệch cls dịch vụ load sai số lượng cls (BV Thanh Bình)_**
+- 🐛:Chỉnh lỗi không đúng số lượng khi chọn link trên lưới Bảng kê chênh lệch CLS - Dịch vụ ![](https://i.imgur.com/B05Wlhy.png) ![](https://i.imgur.com/HcrJIF9.png)
+- ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/201 
+## [v.3.24.1002.0]()
 - 🐛: **💼**: **_Lỗi - Load thông tin bệnh nhân nội trú để thu tiền (BV Ô Môn)_**
 - 🐛: Chỉnh lỗi khi chọn bệnh nhân ![](https://i.imgur.com/tTxRmpM.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/200
