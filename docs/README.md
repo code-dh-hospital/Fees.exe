@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1003.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410030-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410030-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410030-NasDHSolutions.json)
+## 3.24.1005.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410050-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410050-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410050-NasDHSolutions.json)
+- ✨: **💼**: **_Dự án - Thanh toán QR - HD Bank_**
+- ✨: Bổ sung thanh toán QR đối với 92013, 92086 sử dụng chuẩn VietQR ![](https://i.imgur.com/ev5jWgj.jpeg)
+- ☑: https://github.com/dh-hos/Du_An/issues/2
+## [v.3.24.1003.0]()
 - 🐛: **💼**: **_Lỗi - BC Bảng kê chênh lệch cls dịch vụ load sai số lượng cls (BV Thanh Bình)_**
 - 🐛:Chỉnh lỗi không đúng số lượng khi chọn link trên lưới Bảng kê chênh lệch CLS - Dịch vụ ![](https://i.imgur.com/B05Wlhy.png) ![](https://i.imgur.com/HcrJIF9.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/201 
