@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1016.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410160-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410160-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410160-NasDHSolutions.json)
+## 3.24.1016.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410161-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410161-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410161-NasDHSolutions.json)
+- ✨: **💼**: **_Yêu cầu - Hỗ trợ kiểm tra genQR có thời hạn_**
+- ✨: Hỗ trợ thêm expDate khi genQR, truyền lại yyMMddHHmm ![](https://i.imgur.com/13rSPuw.png) ![](https://i.imgur.com/LibahNY.jpeg) 
+- ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/359
+## [v.3.24.1016.0]()
 - ✨: **💼**: **_Yêu cầu - Hỗ trợ kiểm tra genQR có thời hạn_**
 - ✨: Hỗ trợ thêm expDate khi genQR ![](https://i.imgur.com/LibahNY.jpeg)
 - ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/359
