@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1017.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410170-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410170-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410170-NasDHSolutions.json)
+## 3.24.1021.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410210-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410210-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410210-NasDHSolutions.json)
+- ✨: **💼**: **_Yêu cầu - Bổ sung ghi chú cho mã QR_**
+- ✨: Bổ sung tùy chọn thể hiện thêm thông tin khách hàng trên thanh toán QRs ![](https://i.imgur.com/Wj6ke6f.png) ![](https://i.imgur.com/PdmSavK.jpeg)
+- ✨: QRData: `00020101021226240006970489011018002726855205140985303704540105802VN5912BVDKTPCANTHO6005HANOI62870112CTXWSQFFGFTA0312BVDKTPCANTHO05120124102115290712BVDKTPCANTHO0819029280 - Tran Van T6304D19C`
+- ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/363
+## [v.3.24.1017.0]()
 - ✨: **💼**: **_Yêu cầu - Tích hơp Hóa đơn điện tử của VNPT loại MTT(Máy tính tiền) cho Phòng Khám Thiên Ân_**
 - ✨: Xử trí riêng đối với VNPT.MTT không sử dụng CDData trên tất cả trường, mà xử lý thay đổi ký tự đặc biệt, tuân thủ qui tắc XML.
 - ✨: Xử trí cách lấy Số hóa đơn theo mô tả: "OK:" + pattern + ";" + serial + "-" + fkey + "_" + invNumber + "_" + MCCQT cụ thể trường hợp a đưa : OK:1/002;C24MTT-39Q863DDGW3_25_M1-24-46968-00100000025 thì số hóa đơn sẽ là số 25
