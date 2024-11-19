@@ -5,72 +5,95 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1021.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410210-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410210-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FFeesexe%2F32410210-NasDHSolutions.json)
+
+## [v.3.24.1119.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32411190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32411190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32411190-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: **Lỗi - QR thể hiện sai số tiền của BN có cấn trừ tạm ứng**
+- 🐛: Chỉnh lỗi không lấy đúng số tiền bệnh nhân phải nộp khi thể hiện QR
+- ![](https://i.imgur.com/bJDj3Rt.png) ![](https://i.imgur.com/6q93fmz.png) ![](https://i.imgur.com/ig4Enmr.png) ![](https://i.imgur.com/CYLmbCl.png)
+- ☑: https://github.com/dhhiswork/Loi/issues/2
+
+## [v.3.24.1021.0]()
 - ✨: **💼**: **_Yêu cầu - Bổ sung ghi chú cho mã QR_**
 - ✨: Bổ sung tùy chọn thể hiện thêm thông tin khách hàng trên thanh toán QRs ![](https://i.imgur.com/Wj6ke6f.png) ![](https://i.imgur.com/PdmSavK.jpeg)
 - ✨: QRData: `00020101021226240006970489011018002726855205140985303704540105802VN5912BVDKTPCANTHO6005HANOI62870112CTXWSQFFGFTA0312BVDKTPCANTHO05120124102115290712BVDKTPCANTHO0819029280 - Tran Van T6304D19C`
 - ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/363
+
 ## [v.3.24.1017.0]()
 - ✨: **💼**: **_Yêu cầu - Tích hơp Hóa đơn điện tử của VNPT loại MTT(Máy tính tiền) cho Phòng Khám Thiên Ân_**
 - ✨: Xử trí riêng đối với VNPT.MTT không sử dụng CDData trên tất cả trường, mà xử lý thay đổi ký tự đặc biệt, tuân thủ qui tắc XML.
 - ✨: Xử trí cách lấy Số hóa đơn theo mô tả: "OK:" + pattern + ";" + serial + "-" + fkey + "_" + invNumber + "_" + MCCQT cụ thể trường hợp a đưa : OK:1/002;C24MTT-39Q863DDGW3_25_M1-24-46968-00100000025 thì số hóa đơn sẽ là số 25
 - ![](https://i.imgur.com/LgjuExo.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/625
+
 ## [v.3.24.1016.2]()
 - 🐛: **💼**: **_Yêu cầu - Tích hơp Hóa đơn điện tử của VNPT loại MTT(Máy tính tiền) cho Phòng Khám Thiên Ân_**
 - 🐛: Xử lý MMT (VNPT) ![](https://i.imgur.com/Bi8SeAo.png) `<Invoices>  <Inv>    <key>OSDHSLURJW</key>    <Invoice>      <CusCode>2020001989</CusCode>      <CusName><![CDATA[]]></CusName>      <CusAddress><![CDATA[Ấp Bắc 2, Xã Hòa Long, Thành phố Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu]]></CusAddress>      <Buyer>Phạm Thị Lợi</Buyer>      <CusPhone />      <CusTaxCode />      <PaymentMethod>TM</PaymentMethod>      <KindOfService />      <Products>        <Product>          <ProdName>20,00%BHYT (Thuốc&amp;VTYT:197,722; Xét nghiệm:145,200; Công khám:30,100)</ProdName>          <ProdUnit>Lần</ProdUnit>          <ProdQuantity>1.0</ProdQuantity>          <ProdPrice>74603.0</ProdPrice>          <Amount>74603.0</Amount>          <Total>74603.0</Total>        </Product>      </Products>      <Total>74603.0</Total>      <DiscountAmount>0.0</DiscountAmount>      <VATRate>-1</VATRate>      <VATAmount>0.0</VATAmount>      <Amount>74603.0</Amount>      <AmountInWords>Bảy mươi bốn ngàn sáu trăm lẻ ba đồng chẵn</AmountInWords>      <Extra>OSDHSLURJW</Extra>      <ArisingDate>16/10/2024</ArisingDate>      <PaymentStatus>1</PaymentStatus>      <ResourceCode />      <GrossValue>74603</GrossValue>      <GrossValue0>0</GrossValue0>      <VatAmount0>0</VatAmount0>      <GrossValue5>0</GrossValue5>      <VatAmount5>0</VatAmount5>      <GrossValue8>0</GrossValue8>      <VatAmount8>0</VatAmount8>      <GrossValue10>0</GrossValue10>      <VatAmount10>0</VatAmount10>      <ComBankNo />      <CusBankNo />      <ComName>COMNAM</ComName>      <ComAddress>COMADDRESS</ComAddress>      <ComTaxCode>3502208409-001</ComTaxCode>    </Invoice>  </Inv></Invoices>`
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/625
+
 ## [v.3.24.1016.1]()
 - ✨: **💼**: **_Yêu cầu - Hỗ trợ kiểm tra genQR có thời hạn_**
 - ✨: Hỗ trợ thêm expDate khi genQR, truyền lại yyMMddHHmm ![](https://i.imgur.com/13rSPuw.png) ![](https://i.imgur.com/LibahNY.jpeg) 
 - ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/359
+
 ## [v.3.24.1016.0]()
 - ✨: **💼**: **_Yêu cầu - Hỗ trợ kiểm tra genQR có thời hạn_**
 - ✨: Hỗ trợ thêm expDate khi genQR ![](https://i.imgur.com/LibahNY.jpeg)
 - ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/359
+
 ## [v.3.24.1014.0]()
 - ✨: **💼**: **_Yêu cầu - Tích hơp Hóa đơn điện tử của VNPT loại MTT(Máy tính tiền) cho Phòng Khám Thiên Ân_**
 - ✨: ***Bổ sung chức cấu hình sử dụng MTT*** ![](https://i.imgur.com/F1aKxt2.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/625
+
 ## [v.3.24.1009.0]()
 - ✨: Bổ sung thời gian hết hạn của mã QR đối với Vietin, BIDV tùy theo cấu hình
+
 ## [v.3.24.1005.1]()
 - ✨: **💼**: **_Dự án - Thanh toán QR - HD Bank_**
 - ✨: Thay đổi cách thức truyền ***số tiền*** ***{{amount}}***, ***pay_id***: ***{{billNumber}}***
 - ✨: Cấu hình thay đổi số tiền và pay_id trong json cấu hình ![](https://i.imgur.com/fUCJGJI.png) ![](https://i.imgur.com/XERlaL5.jpeg) ![](https://i.imgur.com/tmxnqEq.png)
-- ☑: https://github.com/dh-hos/Du_An/issues/2 
+- ☑: https://github.com/dh-hos/Du_An/issues/2
+
 ## [v.3.24.1005.0]()
 - ✨: **💼**: **_Dự án - Thanh toán QR - HD Bank_**
 - ✨: Bổ sung thanh toán QR đối với 92013, 92086 sử dụng chuẩn VietQR ![](https://i.imgur.com/ev5jWgj.jpeg)
 - ☑: https://github.com/dh-hos/Du_An/issues/2
+
 ## [v.3.24.1003.0]()
 - 🐛: **💼**: **_Lỗi - BC Bảng kê chênh lệch cls dịch vụ load sai số lượng cls (BV Thanh Bình)_**
 - 🐛:Chỉnh lỗi không đúng số lượng khi chọn link trên lưới Bảng kê chênh lệch CLS - Dịch vụ ![](https://i.imgur.com/B05Wlhy.png) ![](https://i.imgur.com/HcrJIF9.png)
-- ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/201 
+- ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/201
+
 ## [v.3.24.1002.0]()
 - 🐛: **💼**: **_Lỗi - Load thông tin bệnh nhân nội trú để thu tiền (BV Ô Môn)_**
 - 🐛: Chỉnh lỗi khi chọn bệnh nhân ![](https://i.imgur.com/tTxRmpM.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/200
+
 ## [v.3.24.0930.0]()
 - 🐛: **💼**: **_Lỗi - Chức năng Thu tự do không tìm kiếm được bệnh nhân (BV Phụ Sản)_**
 - 🐛: Chỉnh lỗi không tìm kiếm được ![](https://i.imgur.com/ucwStGT.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/199
+
 ## [v.3.24.0921.0]()
 - 🐛: **💼**: **_Lỗi - Fees thu tiền nhà thuốc toa bán lẽ bị âm tiền (BV Lấp Vò)_**
 - 🐛: Chỉnh lỗi lấy sai số tiền (âm tiền) ![](https://i.imgur.com/NGswkHe.png) ![](https://i.imgur.com/C0Ek3Xm.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/197
+
 ## [v.3.24.0918.1]()
 - ✨: **💼**: **_Yêu cầu - Bổ sung loại chi phí Không chịu thuế lên HĐĐT-Viettel_**
 - ✨: Thêm chức năng cấu hình thuế suất với giá trị tùy chọn ![](https://i.imgur.com/B19dIVh.png)![](https://i.imgur.com/O6l0psK.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/195
+
 ## [v.3.24.0918.0]()
 - 🐛: **💼**: **_Lỗi - Lập phiếu thu bệnh nhân báo lỗi (BV Tim Mạch CT)_**
 - 🐛:Fix lỗi khi nhấn Thêm chứng từ ![](https://i.imgur.com/pVLBliR.gif)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/196
+
 ## [v.3.24.0913.0]()
 - ✨: **💼**: **_Yêu cầu - FEES - Triển khai thanh toán mã QR MOMO_**
 - ✨: Thêm chức năng lưu cache QR theo qr_payId để tránh lập lại quá trình lấy QR nhiều lần, gây lỗi với hệ thống Momo ![](https://i.imgur.com/SkSwS2j.gif)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/416
+
 ## [v.3.24.0911.0]()
 - ✨: Hướng dẫn ẩn QRCODE khi không có QRData (chuỗi rỗng), mục đích người dùng không quét được khi QRData không hợp lệ
 - ![](https://i.imgur.com/aAmpeQO.png) ![](https://i.imgur.com/i4Xc9w0.png)
@@ -94,25 +117,30 @@ private void HideIfEmpty_qrCodeControl_BeforePrint(object sender, System.Drawing
 - ✨: **💼**: **_Yêu cầu - FEES - Triển khai thanh toán mã QR MOMO_**
 - ✨: Xử lý trả về chuỗi QRdata rỗng khi cấu hình không chính xác
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/416
+
 ## [v.3.24.0825.0]()
 - ✨: Bổ sung trang thể hiện mã QR tự thiết kế (đăng nhập tài khoản admin sẽ hỏi trang thiết kế) đối với mã khách hàng không thuộc mẫu mặc định đã thiết kế riêng (**_92001,51214,70071,95006,92118_**)
 ![](https://i.imgur.com/13A5cXo.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/193
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/416
+
 ## [v.3.24.0824.1]()
 - ✨: **💼**: **_Yêu cầu - Kiểm tra thông tin QR gửi cho Bank _**
 - ✨: **💼**: **_Yêu cầu - FEES - Triển khai thanh toán mã QR MOMO_**
 - ✨: Fix lỗi thiếu billNumber khi tạo QR khi in phiếu thu, tích hợp Momo, VietQR
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/193
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/416
+
 ## [v.3.24.0824.0]()
 - ✨: **💼**: **_Yêu cầu - Kiểm tra thông tin QR gửi cho Bank _**
 - ✨: Fix lỗi thiếu billNumber khi tạo QR khi in phiếu thu
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/193
+
 ## [v.3.24.0823.0]()
 - ✨: **💼**: **_Yêu cầu - Kiểm tra thông tin QR gửi cho Bank _**
 - ✨: Fix lỗi thiếu billNumber khi tạo QR
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/193
+
 ## [v.3.24.0821.2]()
 - ✨: **Thực hiện**: **_Yêu cầu - BVĐK TPCT - Thực hiện thanh toán qua mã QR Viettinbank_**
 - ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/265
@@ -120,14 +148,17 @@ private void HideIfEmpty_qrCodeControl_BeforePrint(object sender, System.Drawing
 ## [v.3.24.0821.1]()
 - ✨: Bổ sung XRptQRPayTTYTTPQuangNgai51014
 - ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/264
+
 ## [v.3.24.0821.0]()
 - ✨: **Thực hiện**: **_Yêu cầu - Phước Long BLI - Thực hiện thanh toán qua mã QR Viettinbank._**
 - ✨: Thêm chức năng kiểm tra trạng thái thanh toán mã QR ![](https://i.imgur.com/ZXJiVH0.png)
 - ☑: https://github.com/dh-hos/To_Trien_Khai/issues/98
+
 ## [v.3.24.0820.0]()
 - 🐛: **Chỉnh lỗi**: **_Yêu cầu - Phước Long BLI - Thực hiện thanh toán qua mã QR Viettinbank._**
 - 🐛: Fix lỗi thiếu qrData trên phiếu tạm ứng ![](https://i.imgur.com/dt1WmIo.png)
 - ☑: https://github.com/dh-hos/To_Trien_Khai/issues/98
+
 ## [v.3.24.0817.1]()
 - ✨: **Thực hiện**: **_Yêu cầu - Thanh toán QR Viettinbank tại BV Sản Nhi Trà Vinh_**
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/551
@@ -137,9 +168,11 @@ private void HideIfEmpty_qrCodeControl_BeforePrint(object sender, System.Drawing
 - ✨: Chỉnh sửa tiêu đề đối với màn hình thể hiện QRCode: ![](https://i.imgur.com/yAijRqe.png)
 - ✨: Bổ sung para: qrData đối với phiếu tạm ứng (tamungtuin=1) ![](https://i.imgur.com/zS0ldY2.png)
 - ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/95
+
 ## [v.3.24.0813.1]()
 - 🐛: **Chỉnh lỗi**: **_Lỗi - PHÁT SINH LỖI KHI LẬP PHIẾU THU BỆNH NHÂN CÓ THUỐC NHÀ THUỐC_** ![](https://i.imgur.com/vtnY1MM.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/192
+
 ## [v.3.24.0813.0]()
 - 🐛: **Chỉnh lỗi**: **_Lỗi - PHÁT SINH LỖI KHI LẬP PHIẾU THU BỆNH NHÂN CÓ THUỐC NHÀ THUỐC_** ![](https://i.imgur.com/vtnY1MM.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/192
@@ -148,129 +181,163 @@ private void HideIfEmpty_qrCodeControl_BeforePrint(object sender, System.Drawing
 - ✨: Yêu cầu - BV Phụ Sản: Yêu cầu bổ sung Tên đơn vị vào báo cáo Chi tiết chi phí nội bộ
 - ![](https://i.imgur.com/2ZdUTcM.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/563
+
 ## [v.3.24.0802.0]()
 - ✨: Yêu cầu - BV Phụ Sản: Yêu cầu bổ sung Tên đơn vị vào báo cáo Chi tiết chi phí nội bộ
 - ![](https://i.imgur.com/2ZdUTcM.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/563
+
 ## [v.3.24.0801.0]()
 - 🐛: Yêu cầu - Kiểm lỗi Fees trùng trong báo cáo Chi tiết theo dịch vụ
 - ![](https://i.imgur.com/eg5ed2W.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/561
+
 ## [v.3.24.0704.0]()
 
 - ✨: Yêu cầu thực hiện Theo mô tả - MÔ TẢ QUY TRÌNH TRẢ THUỐC/VTYT NGƯỜI BỆNH ĐIỀU TRỊ NỘI TRÚ
 - Lấy thêm thông tin sohdx trên pshdxn để xử lý cấn trừ (lấy toàn bộ thông tin hóa đơn xuất, để áp cho hóa đơn trả, trừ số lượng và tiền)
 - ![](https://i.imgur.com/gl8HMmF.png) ![](https://i.imgur.com/lGPu2tj.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/405
+
 ## [v.3.24.0626.0]()
 
 - 🐛: Lỗi - Fees tính sai tiền cung chi trả đối với bệnh nhân đã có phiếu thu (BV Tâm Phúc)
 ![](https://i.imgur.com/SotusD3.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/188
+
 ## [v.3.24.0618.3]()
 - ✨: DEVMODE
+
 ## [v.3.24.0612.0]()
 - 🐛: Lỗi - Không thu được tiền đối với bệnh nhân có tổng có phát sinh cùng chi trả (trường hợp đã thu 1 phần)
 ![](https://i.imgur.com/9X2ifVD.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/174#issuecomment-2161981493
+
 ## [v.3.24.0611.0]()
 - 🐛: Fix Lỗi - Không thu được tiền đối với bệnh nhân có tổng có phát sinh cùng chi trả (trường hợp đã thu 1 phần)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/174
+
 ## [v.3.24.0610.0]()
 - ✨: Thực hiện chuyển phiếu Kết toán sang tự thiết kế (Yêu cầu - Đồng Tâm - Yêu cầu phiếu kết toán tại Fees chuyển khổ giấy A5)
 ![](https://i.imgur.com/BZ9vVlH.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/263
+
 ## [v.3.24.0607.1]()
 - ✨: Test NAS
+
 ## [v.3.24.0607.0]()
 - 🐛: Fix lỗi trường hợp thuốc trả và thuốc đánh toa khác chi phí miễn chi trả
 - ![](https://i.imgur.com/MeBxYX1.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/163
 - 📕: Xử lý kiểm tra nếu cphi_mienct của thuốc trả, không có trong thuốc đánh, thì xử lý giống thuốc đánh toa_
+
 ## [v.3.24.0606.0]()
 - ✨: Kiểm tra nếu số thực thu nhỏ hơn 0, mà có bật tham số lapchungtu0dong = 1, sẽ gán lại giá trị 0
 - 🐛: Lỗi - Không lập được phiếu thu 0 đồng (khi sử dụng tham số lapchungtu0dong = 1) bv lấp vò
 - Do bệnh viện sử dụng chức năng tách hóa đơn, nên cũng phải tách 2 phần thành miễn giảm và thất thu để xử lý cho mỗi phiếu thu. Hướng dẫn video dưới đây.
 - ![](https://i.imgur.com/oiWRBD6.gif)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/178
+
 ## [v.3.24.0605.1]()
 - ✨: Hỗ trợ kiểm tra Đã có phiếu thu sử dụng tiền tạm ứng của bệnh nhân thì không cho phép xóa phiếu này
 - ![](https://i.imgur.com/OSbEZqV.png)
 - 🐛: Hỗ trợ Lỗi Thu tiền nội trú thể hiện sai chi phí thu thêm 
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/140
+
 ## [v.3.24.0605.0]()
 - 🐛: Fix lỗi không tính tiền lại khi xóa chi tiết CLS
 - ![](https://i.imgur.com/XPMWjQ2.gif)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/165
+
 ## [v.3.24.0602.1]()
 - 🐛: Lỗi - Không hiển thị trang in đã được thiết kế.
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/179
+
 ## [v.3.24.0602.0]()
 - 🐛: Lỗi - Nội dung thu bị trùng khi lập HDDT. (menu: Hóa đơn điện tử/Đồng bộ hóa đơn cuối ngày - Theo bệnh nhân)
 - 🐛: Lỗi - Nút bỏ qua không có tác dụng
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/184
+
 ## [v.3.24.0601.2]()
 - 🐛: Fix lỗi không tính lại thành tiền của phiếu thu
 ![](https://i.imgur.com/C86yIGH.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/165
+
 ## [v.3.24.0601.1]()
 - 🐛: Xóa trạng thái selection row khi lấy lại dữ liệu mới
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/185
+
 ## [v.3.24.0601.0]()
 - 🐛: Lỗi - Không chỉ định được những XN có chứa XN con
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/164
+
 ## [v.3.24.0531.1]()
 - 🐛: Lỗi - Tính sai chi phí BN BANT thanh toán theo đợt có nhập giấy chứng nhận miễn (BV Ô Môn)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/170
+
 ## [v.3.24.0531.0]()
 - 🐛: Kiểm tra trạng thái dữ liệu mới trước khi thực hiện lưu hoặc thêm nếu chưa nhấn lấy dữ liệu mới
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/166
+
 ## [v.3.24.0528.1]()
 - ✨: Cập nhật Debug
+
 ## [v.3.24.0528.0]()
 - 🐛: Fix xuống dòng địa chỉ trên phiếu thu
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/171
+
 ## [v.3.24.0527.1]()
 - 🐛: Fix lỗi mất % lý do thu
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/183
+
 ## [v.3.24.0527.0]()
 - 🐛: Fix lỗi mất % lý do thu
 - 🐛: Fix xuống dòng địa chỉ trên phiếu thu
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/171
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/183
+
 ## [v.3.24.0525.0]()
 - 🐛: Mở rộng text in địa chỉ trên phiếu thu
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/171
+
 ## [v.3.24.0524.0]()
 - 🐛: Fix lỗi lập chi phí không phải nhà thuốc mà không cấn trừ tạm ứng
 ![](https://i.imgur.com/Bw6cVCm.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/358#issuecomment-2128329070
+
 ## [v.3.24.0523.0]()
 - ✨: Fix lỗi không cấn trừ tạm ứng theo cấu hình
 ![](https://i.imgur.com/vLpGu7s.png)
 ![](https://i.imgur.com/QyoH8vf.png)
 - 📕: Fix lỗi nút Thuốc NT không theo cấu hình
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/358
+
 ## [v.3.24.0522.0]()
 - ✨: Thêm chức năng cho phép cấu hình sử dụng Cấn trừ tạm ứng khi thực hiện thu thuốc nhà thuốc (chức năng Thuốc NT trên form thu phí)
 ![](https://i.imgur.com/KpioPHQ.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/358
+
 ## [v.3.24.0521.1]()
 - ✨: Bổ sung Logo đối với QRCode
 - ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/95
+
 ## [v.3.24.0521.0]()
 - ✨: Bổ sung Logo Vietin trên màn hình thể hiện QRCode
 - ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/93
+
 ## [v.3.24.0520.0]()
 - 📕: Xử lý gen QR theo thứ tự, nếu trong option coderun có sẽ lấy theo giá trị này, nếu rỗng sẽ lấy theo code cứng đã code trước
 - 📕: Dữ liệu này sẽ được cập nhật từ cấu hình của webservices qrListener
+
 ## [v.3.24.0519.1]()
 - ✨: Bổ sung QRCode BV Phước Long Bạc Liêu
 - ☑: https://github.com/dh-hos/92001-qrcode-vietin
+
 ## [v.3.24.0519.0]()
 - ✨: Bổ sung chức năng, khi màn hình có chiều cao từ 768 trở xuống sẽ rút gọn thông tin của bệnh nhân, và thêm chức năng [Mở rộng] để thể hiện những thông tin bị mất khi cần
 ![](https://i.imgur.com/OPshSmM.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/172
+
 ## [v.3.24.0518.0]()
 - 🐛: Fix lỗi `Phiên bản :2024.05.18.151708PM
 System.ArgumentException: Field must be specified in the group before adding it to the collection.
@@ -280,15 +347,19 @@ System.ArgumentException: Field must be specified in the group before adding it 
    at HosFees.ReportsV2.ReportForms.FrmBKThuChi.loadData()` 
 ![](https://i.imgur.com/6tM7xtY.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/162
+
 ## [v.3.24.0517.2]()
 - 🐛: Fix lỗi khi chọn [Tạm ứng] ![image](https://i.imgur.com/309zyyK.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/182
+
 ## [v.3.24.0517.1]()
 - 🐛: Fix lỗi lập phiếu thu khi có genQR, build lại để kiểm tra
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/181
+
 ## [v.3.24.0517.0]()
 - 🐛: Fix lỗi lập phiếu thu khi có genQR, build lại để kiểm tra
 - ☑: https://github.com/dh-hos/dhg.hospitalfees/issues/181
+
 ## [v.3.24.0516.9]()
 - 🐛: Fix Lỗi - Gen mã QR sai thông tin
 - 🐛: Fix Lỗi - System.MissingMethodException: Method not found: 'Void OTH.PAY.ViettinBank.QRCode.ShowQR.ShowOnSecondScreenByQRPay  
@@ -747,4 +818,3 @@ System.ArgumentException: Field must be specified in the group before adding it 
 ##### [v3.22.0623.1]()
 
 -  ✨: Bổ sung theo dõi nội dung cập nhật module Fees [tại đây](https://github.com/dh-hos/dhg.hospitalfees/blob/main/Deploy_Tools/CHANGELOG.md)
-
