@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1125.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32411251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32411251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32411251-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fees Bảng kê bệnh nhân nợ viện phí tính sai số tiền nợ khi bệnh nhân được miễn cùng tri trả
+- ![](https://i.imgur.com/L6HJt7J.png) ![](https://i.imgur.com/3tphU5A.png) ![](https://i.imgur.com/Ks40qJP.png)
+- ☑: https://github.com/dhhiswork/Loi/issues/17
+
 ## [v.3.24.1125.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32411250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32411250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32411250-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Lệch tiền giữa Fees và bảng kê
 - 🐛: Chỉnh lại cái cách làm tròn khi sử dụng tham số tienbntra_lamtron = 1, tính % thanh toán theo chi tiết và ***KHÔNG LÀM TRÒN***, khi tổng lại mới bắt đầu làm tròn. ![](https://i.imgur.com/584k9h2.png)
