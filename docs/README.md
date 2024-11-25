@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1125.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32411250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32411250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32411250-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Lệch tiền giữa Fees và bảng kê
+- 🐛: Chỉnh lại cái cách làm tròn khi sử dụng tham số tienbntra_lamtron = 1, tính % thanh toán theo chi tiết và ***KHÔNG LÀM TRÒN***, khi tổng lại mới bắt đầu làm tròn. ![](https://i.imgur.com/584k9h2.png)
+- ☑: https://github.com/dhhiswork/Loi/issues/29
+
 ## [v.3.24.1119.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32411191-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32411191-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32411191-NasDHSolutions.json)</sup></sup></sub>
 - ☑: https://github.com/dhhiswork/Loi/issues/11
 - 🐛: Lỗi - không có mã QR trong thiết kế trang in phiếu tạm ứng. ![](https://i.imgur.com/yENn7i2.png)
