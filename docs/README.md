@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.24.1213.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32412130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32412130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32412130-NasDHSolutions.json)</sup></sup></sub>
+- ✨: 
+- 🐛: Bảng kê bệnh nhân nợ viện phí tính sai cột BHYT, Bảng kê Theo dỗi chi phí điều trị tính sai tiền bệnh nhân nợ
+- ☑: https://github.com/dhhiswork/Loi/issues/17
+
+- Theo dỗi chi phí điều trị
+![](https://i.imgur.com/aWEOIP0.png)
+
+- Bảng kê bệnh nhân nợ
+![](https://i.imgur.com/hbf00Qz.png)
+
 ## [v.3.24.1212.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32412120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32412120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32412120-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - không có mã QR trong thiết kế trang in phiếu tạm ứng
 - ☑: https://github.com/dhhiswork/Loi/issues/11
