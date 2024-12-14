@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1214.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32412140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32412140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32412140-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Hiển thị thêm phí Momo lên màn hình thông tin QR
+- ✨: Bổ sung `qrUserFeeMomo` khi kết nối thanh toán QRCode với Momo, đây là số tiền phí khách hàng phải trả cho Momo khi đồng ý thanh toán. (`userFee` trong dữ liệu từ Momo trả về)
+- ☑: https://github.com/dhhiswork/YeuCau/issues/49
+
 ## [v.3.24.1213.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32412130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32412130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32412130-NasDHSolutions.json)</sup></sup></sub>
 - ✨: 
 - 🐛: Bảng kê bệnh nhân nợ viện phí tính sai cột BHYT, Bảng kê Theo dỗi chi phí điều trị tính sai tiền bệnh nhân nợ
