@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0102.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501020-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tích hợp với hệ thống MISA - PHÚC GIA KHANG -Bổ sung thêm chức năng ghi nhật ký gửi và thêm form báo cáo gửi Misa rebuild
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/2
+![](https://i.imgur.com/XAe1p01.png)
+
+![](https://i.imgur.com/T5dh3Zr.png)
+
 ## [v.3.25.0101.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501010-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Tích hợp với hệ thống MISA - PHÚC GIA KHANG - Bổ sung thêm chức năng ghi nhật ký gửi và thêm form báo cáo gửi Misa
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/2
