@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0103.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501031-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Phụ Sản: Phiếu kết toán viện phí tính sai số tiền thu BHYT
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/13
+
+![](https://i.imgur.com/WEYRQKH.png)
+
 ## [v.3.25.0103.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501030-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Tích hợp với hệ thống MISA - PHÚC GIA KHANG - Yêu cầu không lấy dịch vụ CLS lên phiếu xuất kho độc lập khi gửi phiếu thu bệnh nhân cùng chi trả
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/2
