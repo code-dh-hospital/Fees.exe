@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0108.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501080-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Fees Tính tiền BN CCT sai - (dh-issue/LOI/#3)
+- 🐛: ***Loại bỏ chi phí chuyển viện khi trạng thái thẻ không được thanh chi phí vận chuyển khi tính phần trăm thu đồng chi trả.*** ![](https://i.imgur.com/zGrc3Am.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/3
+
 ## [v.3.25.0103.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501031-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Phụ Sản: Phiếu kết toán viện phí tính sai số tiền thu BHYT
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/13
