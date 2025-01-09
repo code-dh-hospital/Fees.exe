@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.0109.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501092-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501092-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501092-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tích hợp với hệ thống MISA - PHÚC GIA KHANG - Thêm tools gửi MISA AMIS đồng loạt Rebuild
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/2
+
+![](https://i.imgur.com/ASWhyka.png)
+
+![](https://i.imgur.com/DCuwN1a.png)
+
 ## [v.3.25.0109.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501091-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501091-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32501091-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Tích hợp với hệ thống MISA - PHÚC GIA KHANG - Thêm tools gửi MISA AMIS đồng loạt Rebuild
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/2
