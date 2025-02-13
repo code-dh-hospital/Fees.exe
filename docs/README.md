@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0213.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502130-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Bảng kê ngoại trú - Tổng hợp - theo dịch vụ (BV Ô Môn) - (dh-issue/LOI/#72)
+- 🐛: ***Chỉnh loại sai chi phí khi có trùng tên loại cận lâm sàng (xử trí theo mã loại)*** ![](https://i.imgur.com/qGIPQof.png)![](https://i.imgur.com/f1n6ucw.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/72
+
 ## [v.3.25.0211.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502110-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Tích hợp với hệ thống MISA - PHÚC GIA KHANG - hỗ trợ option gửi dữ liệu cũ không lập hoá đơn điện tử theo ngày được cấu hình
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/2
