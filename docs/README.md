@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0214.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502141-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - BV Phụ Sản: Yêu cầu Báo cáo tổng hợp theo dịch vụ trên phần mềm Fees cho phép chọn nhiều loại chi phí tùy ý - (dh-issue/YEUCAU/#6)
+- ✨: ***Bổ sung cấu trúc để chọn nhiều loại phí, xử trí theo tùy chọn nhiều loại chi phí, lỗi không chọn được nhiều loại chi phí***![](https://i.imgur.com/N2jd9sd.png) ![](https://i.imgur.com/sNObeTi.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/6
+
 ## [v.3.25.0214.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502140-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - BV Phụ Sản: Yêu cầu Báo cáo tổng hợp theo dịch vụ trên phần mềm Fees cho phép chọn nhiều loại chi phí tùy ý - (dh-issue/YEUCAU/#6)
 - ✨: ***Bổ sung cấu trúc để chọn nhiều loại phí, xử trí theo tùy chọn nhiều loại chi phí***![](https://i.imgur.com/N2jd9sd.png) ![](https://i.imgur.com/sNObeTi.png)
