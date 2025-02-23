@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0223.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502230-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Fees - Không gen được QR - (dh-issue/LOI/#80)
+- 🐛: ***Bổ sung `OTH.Adapter.Pay.Cache` để lưu trữ giá trị khi gọi QR từ Momo, tránh trùng ID khi máy khác gọi vào Id này. Lưu kết quả gọi API tới Momo trên bảng pay.cache để sử dụng lại, xử lý trường hợp nhiều máy cùng trỏ tới một chứng từ, gây lỗi trùng QrID*** ![](https://i.imgur.com/jFm9k5k.png) ![](https://i.imgur.com/ESgsSAm.png) ![](https://i.imgur.com/XzU5jkk.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/80
+
 ## [v.3.25.0214.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502141-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - BV Phụ Sản: Yêu cầu Báo cáo tổng hợp theo dịch vụ trên phần mềm Fees cho phép chọn nhiều loại chi phí tùy ý - (dh-issue/YEUCAU/#6)
 - ✨: ***Bổ sung cấu trúc để chọn nhiều loại phí, xử trí theo tùy chọn nhiều loại chi phí, lỗi không chọn được nhiều loại chi phí***![](https://i.imgur.com/N2jd9sd.png) ![](https://i.imgur.com/sNObeTi.png)
