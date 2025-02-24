@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0224.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502240-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - thu tiền toa bán lẽ nhà thuốc (BV Ô Môn) - LOI - dh-issue- #90
+- 🐛:  ***Chỉnh lỗi lấy dữ liệu trường hợp bán lẻ.*** ![](https://i.imgur.com/N7443WK.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/90
+
 ## [v.3.25.0223.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502231-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502231-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502231-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu: Fees - Medicine bổ sung yêu cầu tách nguồn tiện ích BV Phụ Sản - YEUCAU - dh-issue- #67
 - ✨:  ***Bổ sung chức năng ghi nhận phiếu thu Tiện ích trên chức năng thu tự do.*** ![](https://i.imgur.com/GSLSLtR.png) ![](https://i.imgur.com/ycok12O.png)
