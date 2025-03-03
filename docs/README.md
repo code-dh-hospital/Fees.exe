@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0303.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32503030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32503030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32503030-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - BV Sa Đéc: Phần mềm Printer và Fees không ẩn danh sách quyển Biên lai (gọi chung các quyển thu phí) đã ngưng sử dụng - LOI - dh-issue- #112
+- 🐛:  ***Xử lý loại bỏ những quyển hóa đơn ngưng sử dụng (sudung=1).*** ![](https://i.imgur.com/8kM1fHF.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/112
+
 ## [v.3.25.0228.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32502280-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Fees Báo cáo theo dõi chi phí bệnh nhân nội trú (BV Tim Mạch CT) - LOI - dh-issue- #99
 - 🐛:  ***Chỉnh lỗi tính sai tiền đối với bệnh nhân có stent2.***![](https://i.imgur.com/DCjkVx1.png)![](https://i.imgur.com/RFVZDhN.png)
