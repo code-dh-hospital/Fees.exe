@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0317.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32503170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32503170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32503170-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tích hợp với hệ thống MISA - PHÚC GIA KHANG
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/2
+
+- Làm tròn thành tiền khi gửi chi tiết thuốc
+![](https://i.imgur.com/JpBSAgs.png)
+
 ## [v.3.25.0315.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32503150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32503150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32503150-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi: Fees không lấy được tiền bệnh nhân tự trả Stent2 - LOI - dh-issue- #155
 - 🐛:  ***Xử lý tách lại riêng từng dòng để tính chi phí đúng với stent2, sau khi cấn trừ thuốc âm (bị tăng số lượng).*** ![](https://i.imgur.com/RWyJbdD.png)![](https://i.imgur.com/M6BroHK.png)
