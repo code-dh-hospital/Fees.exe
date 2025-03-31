@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0331.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32503310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32503310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32503310-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu thay đổi báo cáo Bange kê Biên lai thu theo yêu cầu Bệnh viện Phụ Sản - YEUCAU - dh-issue- #160
+- ✨:  ***Khi check Tiện ích sẽ tự động check Nhà Thuốc.*** ![](https://i.imgur.com/2kKMlHh.png)
+- ✨:  ***Xử lý Bảng kê biên lai, tách phần Tiện ích ra khỏi Nhà thuốc.*** ![](https://i.imgur.com/qeZwA2S.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/160
+
 ## [v.3.25.0328.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32503281-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32503281-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32503281-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Fees - Tính sai tiền BN phải trả - LOI - dh-issue- #198
 ***Chỉnh lại cách tính tiền stent2 bị sai khi có nhiều hơn stent2 trong lần chỉ định.*** ![](https://i.imgur.com/vm9i5S0.png)
