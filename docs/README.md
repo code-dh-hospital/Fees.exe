@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0409.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32504091-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32504091-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32504091-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛:  Lỗi: Báo cáo biên lai thu hiển thị sai các cột chi phí - LOI - dh-issue- #202
+- 🐛:  ***Xử lý lại tiện ích, chỉ tách tiện ích ích đối với Chi phí nhà thuốc (loại trừ các phiếu thu tự do).*** ![](https://i.imgur.com/C1FTB5D.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/202
+
 ## [v.3.25.0409.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32504090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32504090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32504090-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi: Báo cáo biên lai thu hiển thị sai các cột chi phí - LOI - dh-issue- #202
 - 🐛:  ***Xử lý lại tiện ích, chỉ tách tiện ích ích đối với Chi phí nhà thuốc.*** ![](https://i.imgur.com/C1FTB5D.png)
