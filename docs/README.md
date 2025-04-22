@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0422.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32504220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32504220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32504220-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Nghĩa Hành: Mẫu phiếu thu mặc định không in đủ địa chỉ bệnh nhân (không xuống hàng) khi địa chỉ dài
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/255
+
+![](https://i.imgur.com/PrTDBq6.png)
+
 ## [v.3.25.0418.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32504180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32504180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32504180-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Fees BC Theo dõi chi phí bệnh nhân nội trú tính sai tổng tiền P.Sinh thực tế (BV Ung Bướu)
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/235
