@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0513.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505130-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi: Fees Ghi nhận sai chi phí tiện ích khi lập phiếu thu và báo cáo biên lai thu
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/276
+
+- Set tiền bệnh nhân trả tiện ích về 0 trước khi kiểm tra và gán lại số tiền bệnh nhân trả tiện ích nếu có khi lập phiếu thu
+
 ## [v.3.25.0509.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505090-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  LỖI - FEES - Trang in Phiếu thu - LOI - dh-issue- #288
 - 🐛:  ***Chỉnh lỗi double chi phí khi in.*** ![](https://i.imgur.com/2UJ0q8A.png)
