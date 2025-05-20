@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0520.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505200-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Bổ sung cấu hình gen QR theo từng đối tác riêng. - YEUCAU - dh-issue- #228
+- ✨:  ***Bổ sung sinh QR đối với đối tác HDBank, Sacombank theo chuẩn VietQR.*** ![](https://live.staticflickr.com/65535/54532084678_8e20e46734_b.jpg)![](https://live.staticflickr.com/65535/54530964757_9b3ef7c2c2_b.jpg)![](https://live.staticflickr.com/65535/54532087503_431061ec99_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/228
+
 ## [v.3.25.0513.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505130-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi: Fees Ghi nhận sai chi phí tiện ích khi lập phiếu thu và báo cáo biên lai thu
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/276
