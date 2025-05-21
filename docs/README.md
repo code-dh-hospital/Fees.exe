@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0521.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505210-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  LỖI - FEES - Lập hóa đơn tổng - Cả bệnh viện > In bảng kê chi tiết - Thu phí > Địa chỉ bệnh nhân không hiển thị - LOI - dh-issue- #320
+- 🐛:  ***Chỉnh lỗi thiếu diachi trên trang in các phiếu chi tiết.*** ![](https://live.staticflickr.com/65535/54535359963_bdfa358463_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/320
+
 ## [v.3.25.0520.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505201-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505201-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505201-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  LỖI - FEES - Thu tự do đã in chứng từ - thực thu vẫn chỉnh được số tiền - LOI - dh-issue- #317
 - 🐛:  ***Khóa control Thực thu khi lưu chứng từ.*** ![](https://live.staticflickr.com/65535/54532444663_3503afb340_b.jpg)
