@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.25.0527.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505270-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tích hợp với hệ thống MISA - PHÚC GIA KHANG
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/2
+
+- Fix lỗi xem lịch sử bệnh không được theo ngày bắt đầu và ngày kết thúc
+- Lấy danh sách gửi Misa tách theo bệnh nhân và phiếu thu
+
+![](https://i.ibb.co/svhB6fsR/O31l2f-Gt-T4.png)
+![](https://i.ibb.co/rf6GkYMG/chrome-Xf7-Lxi7lj0.png)
+
 ## [v.3.25.0521.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505210-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  LỖI - FEES - Lập hóa đơn tổng - Cả bệnh viện > In bảng kê chi tiết - Thu phí > Địa chỉ bệnh nhân không hiển thị - LOI - dh-issue- #320
 - 🐛:  ***Chỉnh lỗi thiếu diachi trên trang in các phiếu chi tiết.*** ![](https://live.staticflickr.com/65535/54535359963_bdfa358463_b.jpg)
