@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0530.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505300-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Bổ sung cấu hình gen QR theo từng đối tác riêng. - YEUCAU - dh-issue- #228
+- ✨:  ***Chỉnh lỗi không lấy được QRSacombank theo chuẩn VietQR.*** ![](https://live.staticflickr.com/65535/54555615049_42d225d6f0_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/228
+
 ## [v.3.25.0527.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505271-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505271-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505271-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Tích hợp với hệ thống MISA - PHÚC GIA KHANG
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/2
