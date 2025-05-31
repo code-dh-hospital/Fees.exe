@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0531.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505311-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505311-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505311-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Lập hóa đơn điện tử theo cấu hình riêng. - YEUCAU - dh-issue- #278
+- ✨:  ***Bổ sung cấu trúc hỗ trợ cấu hình chức năng HDDT-MTT đối với kết nối VNPT.*** ![](https://live.staticflickr.com/65535/54557366089_8f19334b14_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/278
+
 ## [v.3.25.0531.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505310-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Lập hóa đơn điện tử theo cấu hình riêng. - YEUCAU - dh-issue- #278
 - ✨:  ***Bổ sung cấu trúc hỗ trợ cấu hình chức năng HDDT-MTT đối với kết nối VNPT.*** ![](https://live.staticflickr.com/65535/54554444097_c4b438bd88_b.jpg)![](https://live.staticflickr.com/65535/54555659210_389ba462ea_b.jpg)
