@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.0611.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506110-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tích hợp với hệ thống MISA - PHÚC GIA KHANG
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/2
+
+- Tách riêng dòng cho mỗi phiếu thu và BH chi trả trên danh sách đồng bộ
+
+![](https://live.staticflickr.com/65535/54580828022_c8353940dc_b.jpg)
+
 ## [v.3.25.0531.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505311-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505311-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32505311-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Lập hóa đơn điện tử theo cấu hình riêng. - YEUCAU - dh-issue- #278
 - ✨:  ***Bổ sung cấu trúc hỗ trợ cấu hình chức năng HDDT-MTT đối với kết nối VNPT.*** ![](https://live.staticflickr.com/65535/54557366089_8f19334b14_b.jpg)
