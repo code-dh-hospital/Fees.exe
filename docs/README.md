@@ -6,6 +6,28 @@
 
 #
 
+## [v.3.25.0615.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506151-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu Cầu - Bổ sung hàm xử lý hóa đơn điện tử VNPT #281
+	- Cập nhật: bổ sung hàm thay thế hóa đơn, máy tính tiền
+	Xuất lần 1:
+	![](https://i.vgy.me/yeJKbp.png)
+	Chỉnh sửa, thay thế hóa đơn:
+	![](https://i.vgy.me/xwZz03.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/281
+<<<<<<< HEAD
+
+## [v.3.25.0615.0]()
+- ✨: Yêu Cầu - Bổ sung hàm xử lý hóa đơn điện tử VNPT #281
+	- Cập nhật: bổ sung hàm thay thế hóa đơn, máy tính tiền
+	Xuất lần 1:
+	![](https://i.vgy.me/yeJKbp.png)
+	Chỉnh sửa, thay thế hóa đơn:
+	![](https://i.vgy.me/xwZz03.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/281
+=======
+
 ## [v.3.25.0613.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506130-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu Cầu - Bổ sung hàm xử lý hóa đơn điện tử VIETTEL
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/282
