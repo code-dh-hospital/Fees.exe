@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.0616.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506160-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu Cầu - Bổ sung hàm xử lý hóa đơn điện tử VIETTEL
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/282
+
+- Lưu thêm thông tin thuchi sobl_hddt_old (số HDDT cũ), ghi nhật ký thêm thông tin số biên lai HDDT(nếu có) khi chỉnh chứng từ.
+- Lấy đầy đủ chuỗi cho số biên lai HDDT khi gửi thay thế
+![](https://live.staticflickr.com/65535/54591131832_bfd709e89f_c.jpg)
+![](https://live.staticflickr.com/65535/54592228919_4f065cca75_b.jpg)
+
 ## [v.3.25.0615.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506151-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu Cầu - Bổ sung hàm xử lý hóa đơn điện tử VNPT #281
 	- Cập nhật: bổ sung hàm thay thế hóa đơn, máy tính tiền
