@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.25.0619.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506190-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu Cầu - Bổ sung hàm xử lý hóa đơn điện tử VNPT
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/281
+- 📕: Thay đổi cách lấy quyen_hddt trong chuỗi trả về khi thay thế do khác cấu trúc với chuỗi phát hành mới 
+
+- Fix lỗi không lấy được chuỗi gán vào giá trị cho thuchi.quyen_hddt.
+- Lưu thông tin thuchi.sobl_hddt_old khi chỉnh.
+![](https://live.staticflickr.com/65535/54599461965_5d548a9a6b_b.jpg)
+![](https://live.staticflickr.com/65535/54599150026_b19edda680_b.jpg)
+
 ## [v.3.25.0618.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506180-NasDHSolutions.json)</sup></sup></sub>
  - Bổ sung hàm xử lý hóa đơn điện tử VIETTEL
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/282
