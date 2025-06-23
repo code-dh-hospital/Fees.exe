@@ -6,6 +6,21 @@
 
 #
 
+## [v.3.25.0623.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506230-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung nghiệp vụ điều chỉnh/thay thế HĐĐT đối với Hóa đơn điện tử - VAT
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/283
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/248
+
+- Bổ sung thay thế hoá đơn điện tử khi chỉnh phiếu thu
+- Lưu thông tin sobl_hddt vào sobl_hddt_old khi chỉnh phiếu thu đã lập HDDT
+
+- Bổ sung option sử dụng HDDT theo Máy tính tiền
+- Bổ sung phát hành hoá đơn máy tính tiền theo loại Hoá đơn bán hàng và hoá đơn GTGT
+- Bổ sung thay thế hoá đơn Máy tính tiền khi chỉnh phiếu thu.
+
+![](https://live.staticflickr.com/65535/54607283776_56928e38f6_b.jpg)
+![](https://live.staticflickr.com/65535/54607629113_cddf391b7d_b.jpg)
+
 ## [v.3.25.0619.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506190-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu Cầu - Bổ sung hàm xử lý hóa đơn điện tử VNPT
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/281
