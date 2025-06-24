@@ -6,6 +6,28 @@
 
 #
 
+## [v.3.25.0624.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506240-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix lỗi không in được HDDT VAT MTT, không thay thế được HDDT VNPT
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/281
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/248
+
+
+- Fix lỗi In hoá đơn VAT máy tính tiền phát sinh lỗi không in được.
+
+![](https://live.staticflickr.com/65535/54610729886_e4bb7cd136_b.jpg)
+
+---
+
+- Fix lỗi không thay thế được hoá đơn VNPT
+
+- Hoá đơn lập mới ban đầu
+
+![](https://live.staticflickr.com/65535/54610978944_acd389604b_b.jpg)
+
+- Thay thế 2 lần
+
+![](https://live.staticflickr.com/65535/54611109165_475b9b225b_b.jpg)
+
 ## [v.3.25.0623.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506231-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506231-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506231-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix lấy sai giá trị gán vào hddtprefixfkey gây ra lỗi thay thế từ lần thứ 2 trở đi
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/283
