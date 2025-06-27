@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0627.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506270-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix set sai trạng thái thuchi.nhathuoc khi chỉnh chứng từ gây ra lỗi khi thay thế hoá đơn điện tử
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/248
+
+![](https://live.staticflickr.com/65535/54616797118_77d9dc027d_b.jpg)
+
 ## [v.3.25.0624.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506240-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix lỗi không in được HDDT VAT MTT, không thay thế được HDDT VNPT
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/281
