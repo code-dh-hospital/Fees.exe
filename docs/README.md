@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0702.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507020-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Fees: BV Tâm Phúc - Fees tính tiền bệnh nhân cùng chi trả khi chưa vượt ngưỡng thu tiền cùng chi trả - LOI - dh-issue- #394
+- 🐛:  ***Chỉnh lỗi khi làm mới danh sách bệnh nhân.*** ![](https://live.staticflickr.com/65535/54627964675_4388a621eb_b.jpg)
+- 🐛:  ***Chỉnh lỗi tính %BHYT khi chưa tới ngưỡng.*** ![](https://live.staticflickr.com/65535/54627872714_8d1346546f_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/394
+
 ## [v.3.25.0627.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32506270-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix set sai trạng thái thuchi.nhathuoc khi chỉnh chứng từ gây ra lỗi khi thay thế hoá đơn điện tử
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/248
