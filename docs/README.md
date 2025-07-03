@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0703.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507030-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Fees: BV Tâm Phúc - Fees tính tiền bệnh nhân cùng chi trả khi chưa vượt ngưỡng thu tiền cùng chi trả - LOI - dh-issue- #394
+- 🐛:  ***Bổ sung tính Tổng chi phí BH đối với những phần thuốc đã thu.*** ![](https://live.staticflickr.com/65535/54628754317_e856c1043b_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/394
+
 ## [v.3.25.0702.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507022-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507022-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507022-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Fees: BV Tâm Phúc - Fees tính tiền bệnh nhân cùng chi trả khi chưa vượt ngưỡng thu tiền cùng chi trả - LOI - dh-issue- #394
 - 🐛:  ***Thêm xử lý, nếu sử dụng tham số chenhlechgiathuoc, thì lấy tiền bảo hiểm để tính ngưỡng thu.*** ![](https://live.staticflickr.com/65535/54627050882_1e4f1740d7_b.jpg)
