@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0704.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507040-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Fees: BV Tâm Phúc - Fees tính tiền bệnh nhân cùng chi trả khi chưa vượt ngưỡng thu tiền cùng chi trả - LOI - dh-issue- #394
+- 🐛:  ***Bổ sung tính Tổng chi phí BH đối với những phần thuốc đã thu.*** 
+- 🐛:***Chỉnh lỗi sai phần trăm thu khi chọn phiếu thu, tính đồng chi trả thiếu thuốc.***![](https://live.staticflickr.com/65535/54632094700_abecf3d23a_b.jpg)![](https://live.staticflickr.com/65535/54631791416_26580f0f55_b.jpg)![](https://live.staticflickr.com/65535/54632094230_27ae4f30cb_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/394
+
 ## [v.3.25.0703.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507031-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Bổ sung chức năng cấu hình sử dụng riêng cho HĐĐT nhà thuốc. - YEUCAU - dh-issue- #292
 - ✨:  ***Bổ sung chức năng xử lý riêng đối với đối tác VPNT khi kết nối HDDT, giành cho cấu hình riêng URL với Viện phí.*** ![](https://live.staticflickr.com/65535/54628952817_778f61d189_b.jpg)
