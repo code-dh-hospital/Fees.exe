@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.25.0708.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507080-NasDHSolutions.json)</sup></sup></sub>
+x thiếu VAT và tính sai thành tiền trước thuế khi lập HDDT VAT
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/397
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/283
+
+- Option thuế cho nhà thuốc áp dụng cho trường : Thuế xuất mặc định cho phiếu thu nhà thuốc
+
+![](https://live.staticflickr.com/65535/54639757757_bb476e0b2e_b.jpg)
+
+- Fix không thể hiện VAT trên HDDT, lấy giá trị tổng tiền hàng hoá dịch vụ là tổng tiền trước thuế.
+
+![](https://live.staticflickr.com/65535/54639823417_6b5501c997_b.jpg)
+
 ## [v.3.25.0707.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507071-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Fees: BV Tâm Phúc - Fees tính tiền bệnh nhân cùng chi trả khi chưa vượt ngưỡng thu tiền cùng chi trả - LOI - dh-issue- #394
 - 🐛:  ***Chỉnh lỗi xem lại chứng từ, không có chi phí thuộc phiếu thu trước đó (phiếu thu chưa tới ngưỡng).*** ![](https://live.staticflickr.com/65535/54638786824_839bd723c8_b.jpg)
