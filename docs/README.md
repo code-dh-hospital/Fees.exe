@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.0710.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507100-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix lỗi khi lập HDDT VAT MTT cho phiếu thu nhà thuốc đối với các mặt hàng có đơn giá lẻ
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/283
+
+- Làm tròn 4 số thập phân cho đơn giá và thành tiền trước thuế khi lập HDDT VAT MTT
+
+![](https://live.staticflickr.com/65535/54644870591_0f23892ec7_b.jpg)
+
 ## [v.3.25.0708.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507080-NasDHSolutions.json)</sup></sup></sub>
 x thiếu VAT và tính sai thành tiền trước thuế khi lập HDDT VAT
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/397
