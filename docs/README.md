@@ -6,6 +6,23 @@
 
 #
 
+## [v.3.25.0718.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507180-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix lỗi luôn lập hoá đơn mới khi thay thế Hoá đơn V5 (HDDT VAT)
+- 🐛: Fix lỗi thiếu thông tin thuế khi lập và thay thế Hoá đơn MTT V6 (HDDT VAT)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/283
+
+- Fix lỗi luôn lập hoá đơn mới khi thay thế Hoá đơn V5
+![](https://live.staticflickr.com/65535/54662689075_71c6d18c96_b.jpg)
+
+
+- Sửa lỗi cho Hoá đơn MTT V6
+- Bổ sung thông tin gán cho amountWithoutDiscount = tổng tiền trước thuế
+- Bổ sung thông tin gán cho Products.totalAmountWithoutDiscount = tổng tiền trước thuế
+- Bổ sung thông tin gán cho Products.totalTaxAmount = tổng tiền thuế
+- Điều chỉnh làm tròn thành tiền và tính %VAT theo thành tiền đã làm tròn để khớp với tổng tiền hoá đơn
+
+![](https://live.staticflickr.com/65535/54661525162_14bb89e18b_b.jpg)
+
 ## [v.3.25.0717.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507171-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bổ sung nghiệp vụ hóa đơn nháp đối với HĐĐT của VNPT #257
 	- Cập nhật:
