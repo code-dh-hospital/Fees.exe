@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0722.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507220-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung nghiệp vụ hóa đơn nháp đối với HĐĐT của VNPT #257
+	- Cập nhật:
+	![](https://i.vgy.me/QXXENl.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/257
+
 ## [v.3.25.0720.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32507200-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  LỖI - FEES - Chứng từ đã thu không hiển thị trong báo cáo Bảng kê thu chi ngoại trú - LOI - dh-issue- #410
 - 🐛:  ***Chỉnh lỗi lấy thiếu phiếu thu trên bảng kê thu chi (trường hợp mabn=makb).*** ![](https://staging-jubilee.flickr.com/65535/54666332234_4c2f71d5cc_b.jpg)
