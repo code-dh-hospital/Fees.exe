@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0813.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508130-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Fees/Printer: Bổ sung cấu hình số lẻ cho hóa đơn GTGT MTT
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/391
+
+![](https://i.vgy.me/slIX9M.png)
+![](https://i.vgy.me/hyx74V.png)
+
 ## [v.3.25.0801.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508011-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508011-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508011-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix không thể hiện được chi tiết theo mặt hàng cho hoá đơn nhà thuốc
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/292
