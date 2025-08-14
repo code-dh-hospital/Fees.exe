@@ -6,6 +6,44 @@
 
 #
 
+## [v.3.25.0814.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508140-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu Cầu - FEES: Bổ sung nghiệp vụ thay thế HDDT MISA
+- 🐛: Fix lỗi sai chuỗi phần trăm thuế khi gửi HDDT VAT
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/391
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/339
+
+- Fix lỗi sai chuỗi phần trăm thuế khi gửi HDDT VAT [YEUCAU/issues/391](https://i.dh-his.com/hdhiswork/YEUCAU/issues/391)
+
+![](https://i.vgy.me/k5wGkI.png)
+
+- Bổ sung thông tin CCCD và QHNS cho HDDT MISA [YEUCAU/issues/339](https://i.dh-his.com/hdhiswork/YEUCAU/issues/339)
+
+- Theo Mô tả : [BO_SUNG_THONG_TIN_CCCD_VA_QHNS_CHO_HDDT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/FEES/BO_SUNG_THONG_TIN_CCCD_VA_QHNS_CHO_HDDT.md)
+
+- Bổ sung option tự động lấy CCCD vào thông tin phiếu thu
+
+![](https://i.vgy.me/JcsjZ2.png)
+
+- Ràng buộc nhập thông tin QHNS
+
+![](https://i.vgy.me/7l2a3c.png)
+
+![](https://i.vgy.me/yMoQHM.png)
+
++ Bổ sung nghiệp vụ thay thế hoá đơn MISA
+
+- Hoá đơn đầu
+
+![](https://i.vgy.me/QL5XFk.png)
+
+- Hoá thay thế
+
+![](https://i.vgy.me/LqoGDT.png)
+
+- Đã thể hiện được thông tin CCCD và QHNS
+
+![](https://i.vgy.me/OkMXrJ.png)
+
 ## [v.3.25.0813.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508130-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Fees/Printer: Bổ sung cấu hình số lẻ cho hóa đơn GTGT MTT
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/391
