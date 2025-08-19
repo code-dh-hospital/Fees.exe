@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.25.0819.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508190-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Sai chi phí báo cáo Theo dỗi chi phí điều trị, Không set được giờ lấy báo cáo tại Form Lập hoá đơn tổng
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/427
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/436
+
+- Fix load sai chi phí tại Báo cáo Theo dỗi chi phí điều trị nội trú bị double chi phí stend 2 [LOI/issues/427](https://i.dh-his.com/hdhiswork/LOI/issues/427)
+
+![](https://i.vgy.me/rO3O1N.png)
+
+- Fix không chỉnh được giờ lấy báo cáo tại Form lập hoá đơn tổng [LOI/issues/436](https://i.dh-his.com/hdhiswork/LOI/issues/436)
+
+![](https://i.vgy.me/bfjpaU.gif)
+
 ## [v.3.25.0814.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508140-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu Cầu - FEES: Bổ sung nghiệp vụ thay thế HDDT MISA
 - 🐛: Fix lỗi sai chuỗi phần trăm thuế khi gửi HDDT VAT
