@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0819.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508191-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508191-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508191-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix sai giá trị OrgInvoiceType khi lập HDDT MISA
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/339
+
+![](https://i.vgy.me/Fb783W.png)
+
 ## [v.3.25.0819.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508190-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Sai chi phí báo cáo Theo dỗi chi phí điều trị, Không set được giờ lấy báo cáo tại Form Lập hoá đơn tổng
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/427
