@@ -6,6 +6,26 @@
 
 #
 
+## [v.3.25.0828.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508280-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Fees: Cấu hình thu nhà thuốc tách với viện phí.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/394
+
+- Chỉ chi phí nhà thuốc nếu cấu hình máy có check Viện phí nhà thuốc [issues/394](https://i.dh-his.com/hdhiswork/YEUCAU/issues/394)
+
+![](https://i.vgy.me/pRw1ax.png)
+
+![](https://i.vgy.me/86Ouiz.png)
+
+- Cập nhật script hỗ trợ Bảng kê tổng hợp theo dịch vụ bị dư chi phí do double dữ liệu bảng congno 1 số BN [issues/477](https://i.dh-his.com/hdhiswork/LOI/issues/477)
+
+![](https://i.vgy.me/1x9iPX.png)
+
+![](https://i.vgy.me/3TFAbo.png)
+
+- Đối với bệnh nhân maba :2025013865 cần lấy báo cáo từ ngày 26/07 bao gồm các phiếu thu chênh lệch trước đó sẽ ra đúng kết quả
+
+![](https://i.vgy.me/F6wPmQ.png)
+
 ## [v.3.25.0820.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508200-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix sai cách tính nếu có nhiều bệnh nhân có chi phí stent 2 trên báo cáo Theo dỗi chi phí điều trị
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/427
