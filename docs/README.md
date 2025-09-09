@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0909.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509090-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Fees: Thao tác bỏ chọn chi phí không tương tác với người dùng. - LOI - dh-issue- #452
+- 🐛:  ***Chỉnh lỗi không chọn được thuốc.*** ![](https://live.staticflickr.com/65535/54775479463_509e194314_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/452
+
 ## [v.3.25.0829.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32508290-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu Cầu - Medicine: Không cập nhật VAT khi nhập chứng từ vào danh mục thuốc của Nhà thuốc
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/344
