@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0910.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509101-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Fees: Lập hóa đơn điện tử liên tục
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/18
+
+![](https://i.vgy.me/4OqbnN.png)
+
 ## [v.3.25.0910.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509100-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Printer: Lập hóa đơn điện tử bị sai tên thuốc.
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/491
