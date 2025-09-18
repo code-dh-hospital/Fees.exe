@@ -6,6 +6,43 @@
 
 #
 
+## [v.3.25.0918.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509180-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung thông tin CCCD và QHNS theo Nghị định 70
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/319
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/372
+
+![](https://i.vgy.me/aVpa2Z.png)
+
+![](https://i.vgy.me/9Ft41c.png)
+
+---
+
+- Viettel [](https://i.dh-his.com/hdhiswork/YEUCAU/issues/319)
+
+![](https://i.vgy.me/RXAQJ3.png)
+
+---
+
+- VAT V5
+
+![](https://i.vgy.me/K54LGq.png)
+
+- VAT V6 (Đối tác phản hồi do design trên site test bị sai biến nên thể hiện MST sai)
+
+![](https://i.vgy.me/I0yvPy.png)
+
+![](https://i.vgy.me/kjdErK.png)
+
+---
+
+- VNPT - MTT
+
+![](https://i.vgy.me/pH1oLJ.png)
+
+- VNPT HD
+
+![](https://i.vgy.me/9gkRJq.png)
+
 ## [v.3.25.0910.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509101-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Fees: Lập hóa đơn điện tử liên tục
 - ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/18
