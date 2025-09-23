@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0923.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509230-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Ràng buộc nếu mã QHNS có giá trị bắt buộc có 7 ký tự theo Nghị định 70
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/372
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/319
+
+![](https://i.vgy.me/zpaPf4.png)
+
 ## [v.3.25.0919.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509190-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Tự động scroll phần thông tin phiếu thu nếu thu nhỏ form hoặc độ phân giải thấp
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/518
