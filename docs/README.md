@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0924.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509242-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509242-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509242-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Fees: Không xuất được file Excel chi tiết viện phí ra viện nội trú - YEUCAU - dh-issue- #466
+- ✨: ***Bỏ chức năng bắt Xuất Excel theo `OtherLicense.FeesBCChiTietNoiTruRaVien`*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/09/DESKTOP-2FLMTI6-explorer-2025-09-24-19h38p38.572.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/466
+
 ## [v.3.25.0924.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509241-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Thay đổi logo QR Phước Long ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/09/DESKTOP-2FLMTI6-explorer-2025-09-24-08h33p02.908.png)
 
