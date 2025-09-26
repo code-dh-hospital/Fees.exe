@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.0926.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509261-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Fees Form Thu viện phí Ngoại trú, Nội trú, BA Ngoại trú: máy tính có độ phân giải 2560x1600 cũng không nhìn thấy phiếu đã thu
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/518
+
+- Tăng minimum size cho lưới phiếu thu để xuất hiện thanh cuộn
+
+![](https://i.vgy.me/Ei5vBG.gif)
+
 ## [v.3.25.0926.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509260-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Fees: BV Ô Môn: Fees thu sai chi phí thẻ BHYT 2
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/499
