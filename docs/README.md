@@ -6,6 +6,20 @@
 
 #
 
+## [v.3.25.0930.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509300-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix gán sai chuỗi thay thế của cấu hình vào sai field HDDT MISA
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/344
+
+- 1 thuế
+
+![](https://i.vgy.me/26OV6Y.png)
+
+- Nhiều thuế
+
+![](https://i.vgy.me/xKoUFS.png)
+
+![](https://i.vgy.me/VHUjsK.png)
+
 ## [v.3.25.0927.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509271-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509271-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32509271-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Fees: Bổ sung danh sách bệnh nhân nội trú có chi phí phát sinh chưa thu - YEUCAU - dh-issue- #469
 - ✨:  ***Bổ sung báo số tiền trên phiếu thu theo bệnh nhân.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/09/DESKTOP-2FLMTI6-explorer-2025-09-27-14h42p46.910.png) ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/09/DESKTOP-2FLMTI6-explorer-2025-09-27-18h03p47.096.png)
