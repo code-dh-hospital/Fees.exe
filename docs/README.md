@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.25.1002.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510021-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510021-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510021-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung nghiệp vụ xoá bằng cách thay thế hoá đơn 0 đồng cho HDDT VNPT
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/338
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/307
+
+- Theo mô tả : [MO_TA_BO_SUNG_NGHIEP_VU_CHINH_VA_XOA_CHO_PHIEU_THU_DA_LAP_HDDT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/FEES/MO_TA_BO_SUNG_NGHIEP_VU_CHINH_VA_XOA_CHO_PHIEU_THU_DA_LAP_HDDT.md)
+
+Dữ liệu test : binh_tmd_tgg_tenthuoc
+
+![](https://i.vgy.me/JzOEGa.png)
+
 ## [v.3.25.1002.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510020-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu Cầu - FEES: Các vấn đề liên quan nghiệp vụ HĐĐT.
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/338
