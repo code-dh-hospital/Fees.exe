@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1006.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510060-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung Xử lý tác động vào check tất cả thuốc và check tất cả CLS khi thực hiện nghiệp vụ chỉnh để cập nhật lại chi phí đã thay đổi sau khi phiếu thu đã lập HDDT
+- 🐛: https://i.dh-his.com/hdhiswork/YEUCAU/issues/307
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/338
+
+![](https://i.vgy.me/ZPg3ON.png)
+
 ## [v.3.25.1003.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510030-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix Lưu thiếu thông tin sobl_hddt_old sau khi thay thế 0 đồng, lấy ngày hệ thống làm ngày hoá đơn để thay thế 0 đồng cho nghiệp vụ xoá HDDT
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/338
