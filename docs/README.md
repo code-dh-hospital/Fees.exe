@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.1009.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510092-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510092-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510092-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Thay đổi thao tác xem trạng thái thanh toán QR - YEUCAU - dh-issue- #509
+- ✨: Bổ sung số HDDT trên bảng kê biên lai Thu tự do, thu nợ
+- ✨: Bảng kê theo dõi chi phí điều trị BANT - Chỉ lấy theo đợt (vì theo ngày xem như ngoại trú)
+- ✨: Bảng kê theo dõi chi phí điều trị, chi phí đã thu chỉ loại bỏ những phiếu thu tự do, thu nợ 
+- ✨:  ***Bổ sung trạng thái thanh toán chứng từ khi click phiếu thu.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-09-15h43p01.620.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/509
+
 ## [v.3.25.1009.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510091-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510091-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510091-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Fees: Bổ sung danh sách bệnh nhân nội trú có chi phí phát sinh chưa thu - YEUCAU - dh-issue- #469
 - ✨:  ***Chỉnh lỗi khi không có dữ liệu.***  ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-%25pn-2025-10-01-09h52p01.641.png) ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-01-09h51p09.424.png)
