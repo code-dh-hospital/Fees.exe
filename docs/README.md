@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1009.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510090-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung số HDDT trên bảng kê biên lai Thu tự do, thu nợ
+- ✨: Bảng kê theo dõi chi phí điều trị BANT - Chỉ lấy theo đợt (vì theo ngày xem như ngoại trú)
+- ✨: Bảng kê theo dõi chi phí điều trị, chi phí đã thu chỉ loại bỏ những phiếu thu tự do, thu nợ
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/469
+
 ## [v.3.25.1006.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510060-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung Xử lý tác động vào check tất cả thuốc và check tất cả CLS khi thực hiện nghiệp vụ chỉnh để cập nhật lại chi phí đã thay đổi sau khi phiếu thu đã lập HDDT
 - 🐛: https://i.dh-his.com/hdhiswork/YEUCAU/issues/307
