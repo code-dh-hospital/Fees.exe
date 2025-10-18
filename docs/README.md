@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.1018.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510180-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Fees - Phước Long - TOLAPTRINH - dh-issue- #56
+- ✨:  ***Bổ sung bảng kê chi tiết theo bệnh nhân chọn lọc được bệnh nhân ra viện/đang điều trị.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-18-19h54p13.592.png)
+- ✨: ***Cần tách theo dõi chi phí theo đối tượng hợp đồng vì ( đơn vị hđ thanh toán sau đợt hđ)*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-18-19h54p38.509.png)
+- ✨: ***Tính Chi phí nguồn khác đã thanh toán vẫn hiện bên chưa thu*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-18-21h00p37.997.png)
+- ✨: ***Theo dõi chi phí ngoại trú lấy sai chi phí phát sinh ( chưa thể hiện được tổng chi phí điều trị/ bhyt thanh toán/ đã thu/ chưa thua)*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-18-21h10p51.598.png)
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/56
+
 ## [v.3.25.1016.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510161-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510161-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510161-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Fees: Load sai tiền bệnh nhân cùng chi trả khi có chứng nhận miễn - LOI - dh-issue- #575
 - 🐛:  ***Chỉnh lỗi tính sai phần trăm thu khi có miễn chi trả CLS.*** ![](https://i.vgy.me/ZldlID.png)
