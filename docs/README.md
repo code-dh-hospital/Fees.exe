@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.1021.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510210-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Tách chi tiết nội dung thu khi lập HDDT. - YEUCAU - dh-issue- #510
+- ✨:  ***Xử lý riêng theo mã bệnh viện: 92130.*** Tách chi chi tiết đối với phiếu thu không có chi phí BHYT, nếu có Kho DV và Loại VX, sẽ tách riêng chi tiết từng dòng, ngược lại Tổng hợp lại theo lý do thu. 
+- ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-21-11h43p53.668.png)
+![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-21-11h43p18.629.png)
+![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-21-11h42p38.573.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/510
+
 ## [v.3.25.1018.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510180-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Fees - Phước Long - TOLAPTRINH - dh-issue- #56
 - ✨:  ***Bổ sung bảng kê chi tiết theo bệnh nhân chọn lọc được bệnh nhân ra viện/đang điều trị.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-18-19h54p13.592.png)
