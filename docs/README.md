@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.1021.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510211-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510211-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510211-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Fees - Phước Long - TOLAPTRINH - dh-issue- #56
+- ✨:  ***Chỉnh lỗi tính sai chi phí nguồn khác (chỉ phần bệnh nhân trả thuộc nguồn khác, BHYT vẫn thanh toán phần thuộc đồng chi trả).*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-21-14h27p19.022.png)
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/56
+
 ## [v.3.25.1021.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510210-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Tách chi tiết nội dung thu khi lập HDDT. - YEUCAU - dh-issue- #510
 - ✨:  ***Xử lý riêng theo mã bệnh viện: 92130.*** Tách chi chi tiết đối với phiếu thu không có chi phí BHYT, nếu có Kho DV và Loại VX, sẽ tách riêng chi tiết từng dòng, ngược lại Tổng hợp lại theo lý do thu. 
