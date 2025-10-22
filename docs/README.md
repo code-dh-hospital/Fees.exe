@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.1022.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510220-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Báo cáo bảng kê thu chi check đồng chi trả BHYT (BV Thạnh Trị) - LOI - dh-issue- #585
+- 🐛:  ***Cảnh báo, không cho phép chọn thể hiện Đồng chi trả đối với Tab Tạm ứng và Phiếu chi.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-22-15h08p31.871.png) ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-22-15h08p43.860.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/585#issuecomment-17407
+
 ## [v.3.25.1021.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510211-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510211-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510211-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Fees - Phước Long - TOLAPTRINH - dh-issue- #56
 - ✨:  ***Chỉnh lỗi tính sai chi phí nguồn khác (chỉ phần bệnh nhân trả thuộc nguồn khác, BHYT vẫn thanh toán phần thuộc đồng chi trả).*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-21-14h27p19.022.png)
