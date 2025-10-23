@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1023.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510231-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510231-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510231-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Tách chi tiết nội dung thu khi lập HDDT. - YEUCAU - dh-issue- #510
+- ✨:  ***Chỉnh lỗi không lấy được tên đối với chi tiết thuốc trong phần còn lại của các item trong hóa đơn.***
+![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-23-14h32p37.649.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/510#issuecomment-17490
+
 ## [v.3.25.1023.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510230-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Tách chi tiết nội dung thu khi lập HDDT. - YEUCAU - dh-issue- #510
 - ✨:  ***Chỉnh lỗi không lấy được tên đối với chi tiết thuốc trong phần còn lại của các item trong hóa đơn.***
