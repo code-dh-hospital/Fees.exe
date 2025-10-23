@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.1023.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510234-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510234-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510234-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Fees: Lỗi khi thay thế hóa đơn
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/64
+
+- Fix phát sinh lỗi khi thay thế HDDT VAT phát hành loại MTT GTGT
+- Giữ nguyên generalInvoiceInfo.transactionUuid khi thay thế HDDT Viettel.
+
+![](https://files.catbox.moe/dc7vdr.png)
+
 ## [v.3.25.1023.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510233-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510233-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510233-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Fees: Lỗi khi thay thế hóa đơn
 - ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/64
