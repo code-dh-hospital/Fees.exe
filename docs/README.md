@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1023.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510230-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Tách chi tiết nội dung thu khi lập HDDT. - YEUCAU - dh-issue- #510
+- ✨:  ***Chỉnh lỗi không lấy được tên đối với chi tiết thuốc trong phần còn lại của các item trong hóa đơn.***
+![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-23-08h18p51.470.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/510#issuecomment-17490
+
 ## [v.3.25.1022.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510220-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Báo cáo bảng kê thu chi check đồng chi trả BHYT (BV Thạnh Trị) - LOI - dh-issue- #585
 - 🐛:  ***Cảnh báo, không cho phép chọn thể hiện Đồng chi trả đối với Tab Tạm ứng và Phiếu chi.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-22-15h08p31.871.png) ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-22-15h08p43.860.png)
