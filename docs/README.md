@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1023.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510233-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510233-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510233-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Fees: Lỗi khi thay thế hóa đơn
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/64
+
+![](https://files.catbox.moe/uzi31d.png)
+
 ## [v.3.25.1023.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510232-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510232-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510232-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Tách chi tiết nội dung thu khi lập HDDT. - YEUCAU - dh-issue- #510
 - ✨:  ***Chỉnh lỗi không lấy được tên đối với chi tiết thuốc trong phần còn lại của các item trong hóa đơn.***
