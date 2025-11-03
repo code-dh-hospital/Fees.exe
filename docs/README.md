@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1103.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511030-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Fees: Bảng kê chi tiết theo bệnh nhân load chưa đúng giá tiền thuốc - VTYT - LOI - dh-issue- #604
+- 🐛:  ***Chỉnh lại phương cách làm tròn chi tiết chi phí.***
+- ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/03/DESKTOP-2FLMTI6-explorer-2025-11-03-19h37p05.581.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/604#issuecomment-18204
+
 ## [v.3.25.1023.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510234-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510234-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32510234-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Fees: Lỗi khi thay thế hóa đơn
 - ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/64
