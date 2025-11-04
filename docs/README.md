@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.1104.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511040-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Fees: Bảng kê chi tiết theo bệnh nhân load chưa đúng giá tiền thuốc - VTYT - LOI - dh-issue- #604
+- 🐛:  ***Chỉnh chức năng xuất Excel không làm tròn lên..*** ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/04/DESKTOP-2FLMTI6-explorer-2025-11-04-15h38p37.071.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/604#issuecomment-18322
+
 ## [v.3.25.1103.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511030-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Fees: Bảng kê chi tiết theo bệnh nhân load chưa đúng giá tiền thuốc - VTYT - LOI - dh-issue- #604
 - 🐛:  ***Chỉnh lại phương cách làm tròn chi tiết chi phí.***
