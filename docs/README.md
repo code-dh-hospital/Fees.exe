@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1107.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511070-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Fees thu tiền bệnh nhân nội trú sai so với tiền bảng kê 6556 (BV ĐKTPCT) - LOI - dh-issue- #605
+- 🐛:  ***Chỉnh lỗi thu tiền sai số tiền khi có chi phí stent2, trường hợp có phiếu thu trước, phiếu thu sau có phát sinh stent2.***
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/07/DESKTOP-2FLMTI6-explorer-2025-11-07-18h12p40.739.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/07/DESKTOP-2FLMTI6-explorer-2025-11-07-18h12p34.815.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/605
+
 ## [v.3.25.1104.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511040-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Fees: Bảng kê chi tiết theo bệnh nhân load chưa đúng giá tiền thuốc - VTYT - LOI - dh-issue- #604
 - 🐛:  ***Chỉnh chức năng xuất Excel không làm tròn lên..*** ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/04/DESKTOP-2FLMTI6-explorer-2025-11-04-15h38p37.071.png)
