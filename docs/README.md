@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.1114.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511143-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511143-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511143-NasDHSolutions.json)</sup></sup></sub>
+- ✨: 🛣️Kết nối QR - Viettinbank cách mới
+- ✨: Bổ sung cấu hình `custName` để trả lời đối với bước verify của đối tác, nếu có cấu hình sẽ lấy giá trị này gửi cho đối tác. Cấu trúc sẽ giống với cấu hình `"01":"9TNHLXS{{billNumber}}"`.
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/14/DESKTOP-2FLMTI6-explorer-2025-11-14-16h00p05.896.png)
+
 ## [v.3.25.1114.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511142-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511142-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511142-NasDHSolutions.json)</sup></sup></sub>
 - ✨: 🛣️Kết nối QR - Viettinbank cách mới
 - ✨: Bổ sung cấu hình `custName` để trả lời đối với bước verify của đối tác, nếu có cấu hình sẽ lấy giá trị này gửi cho đối tác. Cấu trúc sẽ giống với cấu hình `"01":"9TNHLXS{{billNumber}}"`.
