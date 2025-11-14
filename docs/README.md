@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1114.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511140-NasDHSolutions.json)</sup></sup></sub>
+- ✨: 🛣️Kết nối QR - Viettinbank cách mới
+- ✨: Bổ sung chức năng gửi các thông tin thanh toán lên serverQR để phục vụ cho bank thực hiện nghiệp vụ verify số tiền trước khi xác nhận thanh toán.
+- ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/14/DESKTOP-2FLMTI6-sidekick-2025-11-14-08h17p42.333.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/14/DESKTOP-2FLMTI6-explorer-2025-11-14-08h23p11.344.png)
+
 ## [v.3.25.1107.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511070-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Fees thu tiền bệnh nhân nội trú sai so với tiền bảng kê 6556 (BV ĐKTPCT) - LOI - dh-issue- #605
 - 🐛:  ***Chỉnh lỗi thu tiền sai số tiền khi có chi phí stent2, trường hợp có phiếu thu trước, phiếu thu sau có phát sinh stent2.***
