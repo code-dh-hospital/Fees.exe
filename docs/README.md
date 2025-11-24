@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.1124.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511240-NasDHSolutions.json)</sup></sup></sub>
+- ✨: YÊU CẦU - FEES - Mẫu thiết kế Phiếu thu thêm mã phòng khám và tên phòng khám theo bệnh nhân
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/574
+
+![](https://files.catbox.moe/xmsdtn.png)
+
+![](https://files.catbox.moe/mdbw8o.png)
+
 ## [v.3.25.1114.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511143-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511143-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511143-NasDHSolutions.json)</sup></sup></sub>
 - ✨: 🛣️Kết nối QR - Viettinbank cách mới
 - ✨: Bổ sung cấu hình `custName` để trả lời đối với bước verify của đối tác, nếu có cấu hình sẽ lấy giá trị này gửi cho đối tác. Cấu trúc sẽ giống với cấu hình `"01":"9TNHLXS{{billNumber}}"`.
