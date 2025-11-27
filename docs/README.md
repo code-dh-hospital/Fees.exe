@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1127.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511270-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung cách tính stent thứ 3, thứ 4 theo mô tả [XML130/Stent-thu3-thu4-CV24-2025.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Stent-thu3-thu4-CV24-2025.md). Lưu ý: các stent từ thứ 2, 3 và 4 phải cùng mã hàng hóa.
+![](https://lh3.googleusercontent.com/pw/AP1GczNQ2ykZsOMhwb4G7fQwyrT0CV1v4yTGhqhwIUTIrLMaUwuogeYD4JyxoLO4h-JeZE3txr1ubHoydjZmkRdKiGjC1idZQvWbis4r12TamYBgsbf8mENsA5CwTTwuJSaKCh9bog9BaSL2XSZlv4EvQ89X=w1661-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/580
+
 ## [v.3.25.1124.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32511240-NasDHSolutions.json)</sup></sup></sub>
 - ✨: YÊU CẦU - FEES - Mẫu thiết kế Phiếu thu thêm mã phòng khám và tên phòng khám theo bệnh nhân
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/574
