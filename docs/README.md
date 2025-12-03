@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1203.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512033-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512033-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512033-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Cập nhật thiếu giá trị thuchi.thucthu_thuong khi chỉnh phiếu thu tự do gây ra lỗi không đúng thành tiền khi thay thế HDDT
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/642
+
+![](https://files.catbox.moe/9s73yh.gif)
+
 ## [v.3.25.1203.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512032-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512032-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512032-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix không thông báo xác nhận thay thế HDDT khi chỉnh phiếu thu tại Form thu tự do
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/638
