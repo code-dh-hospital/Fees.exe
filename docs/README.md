@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1203.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512032-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512032-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512032-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix không thông báo xác nhận thay thế HDDT khi chỉnh phiếu thu tại Form thu tự do
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/638
+- 📕: Bổ sung thông báo và xác nhận thay thế HDDT khi chỉnh phiếu thu
+
+![](https://files.catbox.moe/usrh84.gif)
+
 ## [v.3.25.1203.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512031-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix không thay thế hoá đơn khi thao tác chỉnh phiếu thu đã lập HDDT tại Form thu tự do
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/638
