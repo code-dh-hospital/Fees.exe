@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1208.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512080-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Fees chức năng xuất Excel báo cáo Theo dõi chi phí điều trị bệnh nhân Nội trú (BV Thốt Nốt) - LOI - dh-issue- #652
+- 🐛:  ***Chỉnh chức năng xuất Excel bằng button , và xuất trên lưới (xuất không có dữ liệu).***
+- ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/12/08/DESKTOP-2FLMTI6-explorer-2025-12-08-19h09p00.884.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/12/08/DESKTOP-2FLMTI6-FreeCommander-2025-12-08-19h20p07.375.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/652#issuecomment-19954
+
 ## [v.3.25.1204.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512040-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung cách tính stent thứ 3, thứ 4 theo mô tả [XML130/Stent-thu3-thu4-CV24-2025.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Stent-thu3-thu4-CV24-2025.md).
