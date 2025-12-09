@@ -6,6 +6,27 @@
 
 #
 
+## [v.3.25.1209.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512090-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi cách tính stent thứ 3, thứ 4 theo mô tả [XML130/Stent-thu3-thu4-CV24-2025.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Stent-thu3-thu4-CV24-2025.md). Gồm:
+1. Bảng kê => Tổng hợp => Chi tiết - Theo bệnh nhân
+2. Bảng kê => Nội trú => Chi tiết - Theo bệnh nhân
+3. Bảng kê => Nội trú => Theo dõi chi phí điều trị
+4. Bảng kê => Nội trú => Tổng hợp - Theo dịch vụ
+5. Bảng kê => Nội trú => Chi tiết - Theo dịch vụ
+6. Bảng kê => Tổng hợp => Tổng hợp - Theo dịch vụ
+7. Bảng kê => Tổng hợp => Chi tiết - Theo dịch vụ
+
+![](https://lh3.googleusercontent.com/pw/AP1GczMIdEX103xUVBKLPEhjzcgP1VKXpnNdDi_wgU3pYb5JfP7Wk6GGArWy-Tcc7RNvcc1Gx94H2x7oNYTVo_6dP7WItfqVmKrObI7GPi7leGXZxWRIj-OcJov70PE7CEo052daVWSXWs-UOd_Tfk6PEEmc=w1658-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczONZPtCOEHMSYIptox2b2cikmrUf0n98LRQfsJZCBLyfP1c75JkFdgWctHoWDZzASU7BjQMzFUmhFtYFmAXgCCEK9Q4DiuBObgsjtJYlBvJ5Udrve7ssV4W-CX0EIDWDVU0sah-eyiY7HdmmAQJBxT0=w1658-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOnxa1GlqaAzvnkvbR_ilze95JJztHBKpHQniXWM012hnrnG2LEWs5vrMi9Ah7vryeqAfChwtwx4RaAmuVV8RconwVTHg_svPVygWRmQkSTsbmv3GQwdP020qPEaOtpHkuv4oXOihuXI-kWoip3kozR=w1658-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPGlTfVMB-1hld_jFXSOER-DsgQzDSVTCLWjRbNM-QQLgm0w6ldmUWTLLyKRbXUkI7aFcQ6JY97i1qvPZH5to3x-O3s6rPVOzgjAm5qNjdv94rJswuClRBgNW3XYMS5YY4SkBTb2P6XzROatR6UPafK=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOVOaPrGfaCUQiJTw8o-zDHiHV6zo727Osx6xkKvNESxQX8lcrEnt0MtxraBE6RblkhCuUi-j8O1HJiU8RVg_5c84lIIggtfUmBN5PTM8dAqGPEXiX6c0B52JRUDIkWDITIOkSxe3pcAa2ctARN9u6D=w1663-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNvikCp8qi9LEUVoWHh0o52EYmeF4R-o8i5-iqDy9n9hxgtUI1E1ezVN-O-xaQ4P1qXXjNhEl0EMdPIj4Adx0SMcslNsYcN11EbwtqQO3x_DSG9GD-BfqqU3Y7p0zGoSM3V5PGMT5mmm6PpNzqq8zcd=w1658-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMjOnQwPNY6cDToHFwa0lYPTRrQUxFOxUAG2oVjjMrL_OLs0IIwiGczQX4FCFb6bMqHz5xOSwiWTZEDzz1C3Panh6EMXiQMt5H-vqHGIT1WmoXeMh_9Jk2Gj5Xx9hd4IcqXnxO3pl2SQlMLmm62mSOV=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/580
+
 ## [v.3.25.1208.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512080-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Fees chức năng xuất Excel báo cáo Theo dõi chi phí điều trị bệnh nhân Nội trú (BV Thốt Nốt) - LOI - dh-issue- #652
 - 🐛:  ***Chỉnh chức năng xuất Excel bằng button , và xuất trên lưới (xuất không có dữ liệu).***
