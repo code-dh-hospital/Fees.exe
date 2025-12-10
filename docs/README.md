@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1210.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512101-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: LỖI - Đồng bộ hoá đơn MISA AMIS không tham chiếu được phiếu xuất kho độc lập
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/90
+- 📕: Bổ sung thông tin lý do thu lên form danh sách đồng bộ MISA
+
+![](https://files.catbox.moe/3osa9u.png)
+
 ## [v.3.25.1210.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512100-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: LỖI - Đồng bộ hoá đơn MISA AMIS không tham chiếu được phiếu xuất kho độc lập
 - ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/90
