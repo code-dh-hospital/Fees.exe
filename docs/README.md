@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.1210.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512102-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512102-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512102-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi cách tính stent thứ 3, thứ 4 theo mô tả [XML130/Stent-thu3-thu4-CV24-2025.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Stent-thu3-thu4-CV24-2025.md).
+Bảng kê chi tiết theo bệnh nhân:
+![](https://lh3.googleusercontent.com/pw/AP1GczOJUDqrExORPz8u7aC7RMYB6WSnpEhNJccQ_RoanvcCtOsuMcgcma7ppZxTBfzAnYULp2H0Baxno8LNaLtMmVa7n8LEqkPSNBE1dyQAf2mlVUF-JtJtA1CwI-LIl4SgYSOR2wiIF6mehixANr4RqEPO=w1658-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNJuP0FRx8jzMNVIfkPsYLkZZeo9cSjMXwr44hlfc_JeNvmtv-0UJg3VMKHsDnC0PzaFAHR3EO6VE4jGe9Pi37fvqgBCMfHYRNfO9a9t-B_Vwe1rE0K-OdJ1Dkn7Fw7_n-xwSB5azBzqSrP_8K9aaVM=w1658-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/580
+
 ## [v.3.25.1210.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512101-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: LỖI - Đồng bộ hoá đơn MISA AMIS không tham chiếu được phiếu xuất kho độc lập
 - ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/90
