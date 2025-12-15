@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.1215.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512150-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix gửi sai chi phí khi đồng bộ MISA đối với trường hợp tổng tiền BH bằng với tiền thu
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/90
+- 📕: Điều chỉnh lại điều kiện tổng tiền BH >= tiền thu thì tính phần trăm thu
+
+![](https://files.catbox.moe/48dm6b.png)
+![](https://files.catbox.moe/4qhi4w.png)
+
 ## [v.3.25.1210.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512102-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512102-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512102-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi cách tính stent thứ 3, thứ 4 theo mô tả [XML130/Stent-thu3-thu4-CV24-2025.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Stent-thu3-thu4-CV24-2025.md).
