@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.25.1218.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512180-NasDHSolutions.json)</sup></sup></sub>
+- ✨: LỖI - Chi phí nguồn khác không check thanh BHYT trong danh mục bảng kê 6556 không thể hiện tiền qua cột khác
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/77
+- 📕: Thêm option để thu chi phí thuốc và CLS thuộc nguồn khác không thanh BHYT
+
+![](https://i.vgy.me/zDPv4g.png)
+
+- Không thu
+![](https://i.vgy.me/WqImSf.png)
+
+- Thu
+![](https://i.vgy.me/ImYoAX.png)
+
 ## [v.3.25.1217.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512170-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix thiếu làm tròn số theo option đã cấu hình khi lập HDDT Viettel
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/642
