@@ -6,6 +6,21 @@
 
 #
 
+## [v.3.25.1222.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512220-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi: Fees Báo cáo bảng kê bệnh nhân nợ viện phí - BN Nội trú
+
+1. Bảng kê/ nội trú/ Bệnh nhân nợ viện phí
+![](https://lh3.googleusercontent.com/pw/AP1GczMUVCCBlzwhdD8kd_2rWtCJ0rEgXhsFBDu31eOeZK8FDs8rZCilTdscX4MZbxK3EH0vVDyeYikIp18mp7CHYks65cxPxa92r50C2mcDwGy9-TLzIi3sEqmaaHjU7ZSCfYbKx-F1R-ZblTfG9kZUhxOU=w1658-h879-s-no-gm?authuser=0)
+
+2. Bảng kê/ ngoại trú/ Bảng kê chi tiết theo bệnh nhân - Ngoại trú
+![](https://lh3.googleusercontent.com/pw/AP1GczOKIyuBogNHDuismaSc3-CFdmFReASIAtcEePBW7AwnnX008WM2QtLkUhbURr23iq09pyGaLdYHGRa2xBhteWGxduGyHsPnBtw4FBO2o3Dy8ch1kMaBhoGmsxoO69utDIUZ1Tq-17FvI2MPj6Hc9_15=w1658-h879-s-no-gm?authuser=0)
+
+3. Bảng kê/ Tổng hợp/ chi tiết theo bệnh nhân
+![](https://lh3.googleusercontent.com/pw/AP1GczOFupZSZKuD_YK9y4qI-SisiElVCIVCD2svK4ia1F-Q7nrna94EtBAzSFTouJBiBz2FQxuiUCF-l1bVVoIOx4s3-6Vsn2l4QbzPNkdsPsm2in0DMQXx0vycBBBF7C6OSvcOj1hRDELxZytvTdWLNtC2=w1658-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/669
+
 ## [v.3.25.1218.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512180-NasDHSolutions.json)</sup></sup></sub>
 - ✨: LỖI - Chi phí nguồn khác không check thanh BHYT trong danh mục bảng kê 6556 không thể hiện tiền qua cột khác
 - ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/77
