@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.0106.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32601060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32601060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32601060-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Fees Chức năng thu tiền ngoại trú Thuốc NT (BV Ô Môn) - LOI - dh-issue- #682
+- 🐛:  ***Chỉnh lỗi phát sinh khi thu tiền Nhà thuốc.*** ![](https://images-worker.tlt39.workers.dev/i/019b925f-4e29-7b89-87a3-9967af64f630)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/682
+
 ## [v.3.25.1222.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32512220-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi: Fees Báo cáo bảng kê bệnh nhân nợ viện phí - BN Nội trú
