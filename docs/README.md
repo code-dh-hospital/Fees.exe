@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0123.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32601230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32601230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32601230-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Fees: - Bổ sung thành tiền trước thuế khi Lập HDDT VNPT - YEUCAU - dh-issue- #623
+- ✨:  ***Điều chỉnh HDDT.VNPT giá trị các GrossValue lấy theo thành tiền trước thuế (product.Total)***
+- ![](https://images-worker.tlt19.workers.dev/i/019be8b8-6f19-72e4-a669-31f9df5ea5df)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/623
+
 ## [v.3.26.0122.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32601220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32601220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32601220-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Fees: - Bổ sung thành tiền trước thuế khi Lập HDDT VNPT - YEUCAU - dh-issue- #623
 - ✨:  ***Tính lại tiền thuế đối với MTT (VNPT).  Amount: tiền sau thuế (bằng với số tiền thu ở Fees) trong chi tiết và hóa đơn, Total sẽ tính lại theo phần trăm thuế VAT theo cấu hình.***![](https://images-worker.tlt49.workers.dev/i/019be4de-fab1-7e8b-af65-cdf8180ec1ed)
