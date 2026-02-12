@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0212.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32602120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32602120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32602120-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu Cầu - Fees: Bổ sung mã tra cứu hóa đơn vào phiếu thu
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/676
+
+![](https://i.vgy.me/EjS4fj.png)
+![](https://i.vgy.me/Cv6qmd.png)
+![](https://i.vgy.me/lVhG1f.png)
+
 ## [v.3.26.0123.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32601230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32601230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32601230-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Fees: - Bổ sung thành tiền trước thuế khi Lập HDDT VNPT - YEUCAU - dh-issue- #623
 - ✨:  ***Điều chỉnh HDDT.VNPT giá trị các GrossValue lấy theo thành tiền trước thuế (product.Total)***
