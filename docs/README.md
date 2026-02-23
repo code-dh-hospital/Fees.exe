@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0223.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32602230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32602230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32602230-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu Cầu - Fees: Bổ sung mã tra cứu hóa đơn vào phiếu thu
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/676
+
+![](https://i.vgy.me/EjS4fj.png)
+
+![](https://i.vgy.me/Cv6qmd.png)
+
 ## [v.3.26.0212.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32602120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32602120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32602120-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu Cầu - Fees: Bổ sung mã tra cứu hóa đơn vào phiếu thu
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/676
