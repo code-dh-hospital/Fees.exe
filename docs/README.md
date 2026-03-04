@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.26.0304.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603040-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung nghiệp vụ hóa đơn điện tử Softdream
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/698
+
+- 📗: Mô tả : https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/FEES/BO_SUNG_THONG_TIN_CCCD_VA_QHNS_CHO_HDDT_SOFTDREAM.md
+
+
+![](https://i.vgy.me/6yO6Ey.png)
+
+![](https://i.vgy.me/dZdsDU.png)
+
+![](https://i.vgy.me/KVj0OB.png)
+
 ## [v.3.26.0223.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32602230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32602230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32602230-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu Cầu - Fees: Bổ sung mã tra cứu hóa đơn vào phiếu thu
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/676
