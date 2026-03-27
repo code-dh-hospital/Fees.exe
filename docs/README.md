@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.26.0327.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603270-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Fees: Bổ sung cấu hình HDDT nhà thuốc khi kết nối với MISA
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/703
+
+- 📕: Mô tả : https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/FEES/BO_SUNG_CAU_HINH_NHA_THUOC%20_RIENG_HDDT_MISA.md
+
+![](https://files.catbox.moe/la0m54.png)
+
+![](https://files.catbox.moe/by9a80.png)
+
+![](https://files.catbox.moe/rxvsjd.png)
+
 ## [v.3.26.0310.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603100-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix lỗi không lưu được thông tin khi chỉnh phiếu thu khác thangkt
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/698
