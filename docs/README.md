@@ -6,6 +6,28 @@
 
 #
 
+## [v.3.26.0330.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603300-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Fees: Bổ sung cấu hình HDDT nhà thuốc khi kết nối với MISA
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/703
+- 📕: Design lại giao diện cấu hình HDDT MISA tách tab riêng.
+
+![](https://files.catbox.moe/puyo4b.png)
+
+![](https://files.catbox.moe/kmokpv.png)
+
+- 🐛: Lỗi - Không hiển thị được nội dung thiết kế mẫu Bảng kê QR
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/799
+
+- Fix mất nút trạng thái QR Viettin ở màn hình độ phân giải thấp
+
+![](https://files.catbox.moe/1gkczr.png)
+
+- Fix không load được trang in mặc định, design trang in trong báo cáo Bảng kê QR
+
+![](https://files.catbox.moe/s55ibj.png)
+
+![](https://files.catbox.moe/rh063e.png)
+
 ## [v.3.26.0327.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603270-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Fees: Bổ sung cấu hình HDDT nhà thuốc khi kết nối với MISA
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/703
