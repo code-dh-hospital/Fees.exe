@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0415.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604150-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Hỗ trợ tính tiền chí phí gói VTYT vượt 45 tháng lương cơ bản theo mô tả: [XML130/Goi-VTYT-theo-thang-luong-co-ban.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Goi-VTYT-theo-thang-luong-co-ban.md)
+![](https://lh3.googleusercontent.com/pw/AP1GczOZFadisqU1jXB6EK-Y5Dc5RHpTqVNN_01CX25gQtqMRqSRKi3wbbmYraSsoFPA1mpB872gcIpXGrnQhlt3FLp2pJMqlY-48gNhwBHncp0DZUkhPppZC0fZamrJV_HRDUeFLZhc7734G1h47Wdk9Qsy=w1658-h879-s-no-gm?authuser=0)
+https://i.dh-his.com/hdhiswork/YEUCAU/issues/723#issuecomment-25824
+
 ## [v.3.26.0331.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32603310-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: LỖI - FEES - Đồng bộ Misa Toa thuốc BANT không đồng bộ
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/800
