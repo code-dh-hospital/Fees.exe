@@ -6,6 +6,34 @@
 
 #
 
+## [v.3.26.0422.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604220-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Fees: Bổ sung cấu hình HDDT nhà thuốc khi kết nối với MISA
+- 🐛: Fix để trống giá trị trường OrgInvDate nếu không phải gọi thay thế HDDT MISA
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/703
+- 📕: Thay đổi kiểu dữ kiệu trường OrgInvDate để bỏ trống giá trị nếu không phải gọi thay thế HDDT MISA
+
+- Lập
+
+![](https://i.vgy.me/RHN4MR.png)
+
+- Thay thế
+
+![](https://i.vgy.me/ygnIgg.png)
+
+- Xoá
+
+![](https://i.vgy.me/PsAm5t.png)
+
+---
+
+- 🐛: Lỗi - Fees: Phiếu thu BA ngoại trú chưa load thông tin CCCD
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/820
+
+- 📕: Nguyên nhân lỗi : ngoại trú, nội trú và BANT load thông tin riêng nhưng đối với BANT vẫn chưa lấy thông tin dmbenhnhan.cmnd
+- 📕: Xử lý : lấy thêm thông tin dmbenhnhan.cmnd cho BANT
+
+![](https://i.vgy.me/Z6GKaR.png)
+
 ## [v.3.26.0421.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604210-NasDHSolutions.json)</sup></sup></sub>
 
 
