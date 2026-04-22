@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0422.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604221-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Tổng phát sinh trên Form vẫn chưa khớp.
+![](https://lh3.googleusercontent.com/pw/AP1GczMIT1eXWYV9vN3kYyKDYkKr-1h6n2MPpgOhcjP-xHiYQUuQS5dYBn-l_gYMLuCvlKoU0RRYAGsVxaivztVBgldJA6CjUV0q0F-HCS0VKpwUvFZHBt14uh0UwGKD8l0VMh-fxZRzrBLa7UGdmEf_UNeY=w1654-h879-s-no-gm?authuser=0)
+https://i.dh-his.com/hdhiswork/YEUCAU/issues/723#issuecomment-25824
+
 ## [v.3.26.0422.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604220-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Fees: Bổ sung cấu hình HDDT nhà thuốc khi kết nối với MISA
 - 🐛: Fix để trống giá trị trường OrgInvDate nếu không phải gọi thay thế HDDT MISA
