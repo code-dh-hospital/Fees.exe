@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.26.0423.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604231-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604231-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604231-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Fees: Bổ sung cấu hình HDDT nhà thuốc khi kết nối với MISA
+
+- ☑: https://i.vgy.me/DXDJxy.png
+
+- 📕: Thử lại phát sinh lỗi khi lập HDDT MISA
+
+![](https://lh3.googleusercontent.com/pw/AP1GczM51jYhOGiqsbfInd3Z1IoU7ofO-ZX5gwG4z1XXj5oa5Gft_itd-RNPUFcXV7EOLwnPJravWNszzyMF0ToYSVbvm6E_iiw7uVdP3IOd-7wgAqEB9cWe18pBjcsm96KwpJ49fhH1dgkkyyFT6FU_0X5x=w1698-h911-s-no-gm?authuser=0)
+
+- 📕: Thêm trường IsTaxReduction43 cho HDDT MISA
+
+![](https://i.vgy.me/DXDJxy.png)
+
 ## [v.3.26.0423.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32604230-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Fees: Bổ sung cấu hình HDDT nhà thuốc khi kết nối với MISA
 - ☑: https://i.vgy.me/DXDJxy.png
