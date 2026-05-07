@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0507.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32605070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32605070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32605070-NasDHSolutions.json)</sup></sup></sub>
+
+
+- 🐛: Sửa lỗi tính sai tiền chênh lệnh cận lâm sàng.
+![](https://lh3.googleusercontent.com/pw/AP1GczNmZGHjA8FRgQmQx6q4dZxyGjMQ4tq5O-jWl4lIxLUN8RH-q_G8lpi4ujOBwalJrgguTBSih_TMdJIJ8ZPXGEs6HOJLnCieOFvzjw6f0og7KXZYdMqGoNdkh0dAbRr1G2Gu3GyOtZszb2mNJ7vKVj7K=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/830#issuecomment-27061
+
 ## [v.3.26.0505.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32605050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32605050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32605050-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Form lịch sử đồng bộ HDDT hiển thị mất ký tự % chuỗi json
 - ☑: https://i.dh-his.com/hdhiswork/TRIENKHAI/issues/87
