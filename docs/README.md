@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0514.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32605140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32605140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32605140-NasDHSolutions.json)</sup></sup></sub>
+- ✨: TK - Hóa đơn điện tử Misa (Nhà thuốc) - PK Bình An
+- ✨: Yêu cầu - VATRateName trong chi tiết hoá đơn nhà thuốc giá trị NULL khi lập hoá đơn nhà thuốc HDDT MISA
+- ☑: https://i.dh-his.com/hdhiswork/TRIENKHAI/issues/87
+- 📕: Bổ sung option thay thế giá trị = null cho hoá đơn nhà thuốc nếu VATRateName = 0%
+
+![](https://i.vgy.me/t0PhBP.png)
+![](https://i.vgy.me/6fFGED.png)
+
 ## [v.3.26.0507.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32605070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32605070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32605070-NasDHSolutions.json)</sup></sup></sub>
 
 
