@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0709.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607090-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chức năng thu phí người bệnh trái tuyến theo Nghị định 188/2025/NĐ-CP và theo mô tả [XML130/Nghi-dinh-188-2025/Thuc-hien-Nghi-dinh-188-2025-Kham-benh-trai-tuyen.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Nghi-dinh-188-2025/Thuc-hien-Nghi-dinh-188-2025-Kham-benh-trai-tuyen.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczOz9cfSLJrg3JaDNl30EWtL8dIYBGvki2rfKqHoDYB0Rcfrj3HqpPbr8xUfi00jDQXNzI_aAzQXQO5RzZks-iHP2eVZaai77aP-Jtj4lYwwzc8ITBIk6fqnCqAOsw8oVXsBFAUgFCIrEiuPttEObE7B=w1661-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNuGiyxe2Dl1rO6czmOPyz1XSnSMpo-MNCw_fuQozMZ4o9TTqMq6N5VQZxKk8h-I7-i_Jz9KsFMVTILpuoAaq8uJf6-elSUnQC0DpPioF_A1Mf6VAFLdtJSz-7gVRvxDswqRMZucmfNHQ--KXx9GeHK=w1658-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/814#issuecomment-30246
+
 ## [v.3.26.0520.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32605200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32605200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32605200-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Fees Tích hợp Đồng bộ Hóa đơn điện tử với VAT Theo cách mới
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/750
