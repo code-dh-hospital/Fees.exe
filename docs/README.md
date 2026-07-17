@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0717.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607170-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Fees: Không gửi được thành tiền trước thuế <Total> lên HĐĐT VNPT
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/149
+- 📗: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/FEES/MO_TA_LOI_KHONG_GUI_DUOC_TOTAL_HDDT_VNPT.md
+
+![](https://i.vgy.me/QpZQ3n.png)
+
 ## [v.3.26.0715.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607151-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi bệnh nhân nội trú sai tổng tiền phát sinh.
