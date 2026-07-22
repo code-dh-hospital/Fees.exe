@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0722.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607220-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi phát sinh thu người bệnh nội trú.
+![](https://lh3.googleusercontent.com/pw/AP1GczMIe1Bwyf62egkEBjn6B-iQPV8dUQNA0xOw75NowiFtwB-qyr7Wd2waVKzdIknHJ12YL2Lyo928pmDd3-afDMHi1Tuf8e6KteGb9E9sQKQ-pA01OZSHrUggqEGFCfO7ihva31sxbOI7toKU06yYKEzG=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/918#issuecomment-31160
+
 ## [v.3.26.0720.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607201-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607201-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607201-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix lỗi thiếu tiền thuế cho phiếu thu viện phí, thu tự do HDDT VNPT
 - ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/149
