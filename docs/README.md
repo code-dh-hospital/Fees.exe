@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.26.0724.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607240-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi:
+1. Bệnh nhân đã thực hiện thu tiền vẫn hiển thị chi phí chưa thu và tiền Người bệnh trả. Lưu ý: do chức năng lập phiếu thu dịch vụ phiên bản cũ lỗi, nên để đúng thì xóa phiếu thu dịch vụ rồi lập lại phiếu thu dịch vụ mới.
+![](https://lh3.googleusercontent.com/pw/AP1GczOVAq_TiJmCl_3T_pdnP1VtfxouX-n7fBoIUeKAohiXIbmTe7Zq30rH0g-l_2akO7E-h-O3ukwOIDtALyKeJEOELT83rITDVmY2XF_f_EUFgpK7RQLIC69_Uc8sDULa7yGRzCHCnwE0-VMXLm8bGssO=w1654-h879-s-no-gm?authuser=0)
+2. Chức năng thu tiền nhà thuốc.
+![](https://lh3.googleusercontent.com/pw/AP1GczN-xsz5QelpTl3aDic_5MtU3xyA9ung7uaJQM_8F2LsIFf-1VKxnV5Q0K_Ah9deGhSDuga6D5vkTpzM-SbuEghaL7PJgdWPS98TQZ4aJERUJO7qS0FH9H1xP94WT36xVXNG17nnq-Ft-zOl5w_Y3EyA=w1658-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/918#issuecomment-31285
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/852#issuecomment-31341
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/852#issuecomment-31362
+
 ## [v.3.26.0723.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607231-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607231-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607231-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Tính chi phí người bệnh bệnh án ngoại trú theo mô tả: [XML130/Nghi-dinh-188-2025/Thuc-hien-Nghi-dinh-188-2025-Kham-benh-trai-tuyen.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Nghi-dinh-188-2025/Thuc-hien-Nghi-dinh-188-2025-Kham-benh-trai-tuyen.md)
