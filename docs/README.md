@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0811.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32608110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32608110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32608110-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi thu tiền bệnh nhân nội trú BHYT.
+![](https://lh3.googleusercontent.com/pw/AP1GczNyHG4DFHrWDruVF51jWtQsYadJV4Hhl3WUEbdgB9pM3Y3__EB0JsDaO0HhOYeUz2eZd4ax5WPgDyqHcoxsF6Im_lRnutMY5Hmaec9eWrYYp0wvDW0I3lR1Xf3FzGgqfct4UjsPMkBjecXnzIuUgNWv=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMz425gzu7v7pwul5uUZuRx3O_rviFAWYPgHSod3d1SqwLpmQv2hV4i2yZl0qsQPH64-pvr6NrEJCblW_krxGi-PKBQ1qy3-4oh52A0SepYSBf7u7XiF_r7k3PICxAmVXJwRGJdaMeKgTlNhU2KASHA=w1658-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/962#issuecomment-31871
+
 ## [v.3.26.0724.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32607240-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi:
