@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0817.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32608170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32608170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32608170-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi chức năng thu tiền ngoại trú lỗi thu sai tiền bệnh nhân.
+![](https://lh3.googleusercontent.com/pw/AP1GczOgWvl1pBV5fFXjGFy-pdXZuPB9bqL43j0nfYWZsgmn-nO3ihvMBJtxWat1lJVbi_kGaXHYeVLA1PmP4qr0JiJ2kPqs7uYwjl1XpsI2flHn9HNMBAgWuR4UwWNi0xrHnvr9YowbpWJgpu6AzkKig1rv=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/969#issuecomment-32936 (hdhiswork/LOI#969)
+
 ## [v.3.26.0813.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32608130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32608130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32608130-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Fees: Phiếu thu chưa hiển thị đầy đủ tên thuốc
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/955
