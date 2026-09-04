@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0904.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609040-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Fees & OTH.PAY.ViettinBank.Admin] Bổ sung phương thức FillUserInFromChungTu trong XFrmExchanges tự động tra cứu bù thông tin người in/lập chứng từ (userin) từ bảng current.chungtu / current.pshdxn cho các giao dịch thanh toán xuất bán lẻ quầy thuốc có cột taikhoan rỗng khi tải dữ liệu đối soát tab "Thanh toán" (pageYeuCauThanhToan) và tab "Tổng hợp theo bệnh nhân" (pageTonghopBN).
+- 🐛: [Fees & OTH.PAY.ViettinBank.Admin] Khắc phục tình trạng thiếu thông tin "Tài khoản" và sai nhóm "Người thực hiện" khi xem Báo cáo giao dịch Viettinbank.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/908
+- ☑: https://i.dh-his.com/tolaptrinh-ai/loi/issues/19
+- 📗: Tra cứu current.chungtu và current.pshdxn theo transactionid / patientid để map userin vào bảng kê giao dịch exchanges.
+- 📕: Vào Phân hệ Fees -> Bảng kê -> Thanh toán không tiền mặt -> Viettinbank - Báo cáo giao dịch: tab Thanh toán và Tổng hợp theo BN tự động hiển thị đầy đủ thông tin Tài khoản và gom nhóm Người thực hiện chính xác theo nhân viên xuất bán lẻ.
+- Thực hiện theo mô tả [BỔ SUNG THÔNG TIN TÀI KHOẢN VÀ BẢO LƯU NGƯỜI IN KHI THỐNG KÊ THANH TOÁN QRCODE NHÀ THUỐC](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/FEES/Hau-mo-ta-bo-sung-thong-tin-tai-khoan-khi-thong-ke-thanh-toan-qrcode.md)
+  ![](https://images-worker.tlt24.workers.dev/i/01a06b3c-cdf4-760a-884f-95e21afdc257)
+
 ## [v.3.26.0817.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32608170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32608170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32608170-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi chức năng thu tiền ngoại trú lỗi thu sai tiền bệnh nhân.
