@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0904.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609041-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Fees & HosFees] Tích hợp `LibraryApp.ClsBanQuyen.ApplyMainForm` tại `FrmMain_expb` (ngay đầu FrmMain_Load trước khi đăng nhập) và `ApplyChildForm` trong constructor của `FrmHome`, tự động đổi tiêu đề thành `DH.HIS Fees`, nạp ảnh nền `background_dh.png` ngay từ bước khởi động ban đầu, cập nhật bản quyền DH và tự động quét ẩn nhóm Trợ giúp trên ExplorerBar/Menu khi `DHHIS_BANQUYEN=1`.
+- 🐛: Khắc phục việc menu Trợ giúp chưa bị ẩn trên Janus ExplorerBar và ảnh nền FrmHome phải đợi sau khi đăng nhập mới hiển thị.
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/34
+- 📗: Độc lập 100% CSDL PostgreSQL, không dùng `current.system`.
+- 📕: Thực hiện theo mô tả [Bổ sung key chức năng riêng quản lý nâng cấp version DHG.Hospital thành DH.HIS](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CHUC-NANG-RIENG/DUAN34_NangCap_Version_DHHIS_BanQuyen.md).
+![](https://images-worker.tlt49.workers.dev/i/01a06c64-dac1-7f68-9176-ce5e0d13b1c3)
+
 ## [v.3.26.0904.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609040-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Fees & OTH.PAY.ViettinBank.Admin] Bổ sung phương thức FillUserInFromChungTu trong XFrmExchanges tự động tra cứu bù thông tin người in/lập chứng từ (userin) từ bảng current.chungtu / current.pshdxn cho các giao dịch thanh toán xuất bán lẻ quầy thuốc có cột taikhoan rỗng khi tải dữ liệu đối soát tab "Thanh toán" (pageYeuCauThanhToan) và tab "Tổng hợp theo bệnh nhân" (pageTonghopBN).
 - 🐛: [Fees & OTH.PAY.ViettinBank.Admin] Khắc phục tình trạng thiếu thông tin "Tài khoản" và sai nhóm "Người thực hiện" khi xem Báo cáo giao dịch Viettinbank.
