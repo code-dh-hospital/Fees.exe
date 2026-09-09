@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0909.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609090-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi chức năng đồng bộ hóa đơn điện tử MISA.
+1. Nguyên nhân: chức năng cấu hình `Làm trong tiền thuế đang là số âm`.
+![](https://lh3.googleusercontent.com/pw/AP1GczNeOcwg3qeICXao5397uMDUUkO3WwcnVMtuGFUieEHJ6LXHQFXVmZLNTh4tgvv4bJLEUm0Roe2rgEvNf8PVIQI2z_O0fNyEY79MKMhOgKIm1_8R-qZ4Vfh2AxAzE1ypaeFuQzWnrsBMg5wYoIAq-H5I=w1296-h879-s-no-gm?authuser=0)
+2. Cách khắc phục: điều chỉnh lại thông số cấu hình `Làm trong tiền thuế` về số dương và điều chỉnh code: nếu thông số cấu hình `Làm trong tiền thuế` là âm thì gán mặc định lại = 0.
+![](https://lh3.googleusercontent.com/pw/AP1GczPO7bvxIkyjGGsAcio_hqnqs9DHiFlc6d36qoTgQ2lZVOz6D0px1ndGMNzSrI2xUgWvgBE1IUNn3cxgEQKUT75nT0fVv74Gxy6hbIVdprWtVRwwNk1Lsxap7YCZNjSHyGNUawwpyArwpb4FTAWdAtdF=w1658-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/995#issuecomment-35196 (hdhiswork/LOI#995)
+
 ## [v.3.26.0905.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609050-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Fees & HosFees] Tích hợp `LibraryApp.ClsBanQuyen.ApplyMainForm` tại `FrmMain_expb` (ngay đầu FrmMain_Load trước khi đăng nhập) và `ApplyChildForm` trong constructor của `FrmHome`, tự động đổi tiêu đề thành `DH.HIS Fees`, nạp ảnh nền `background_dh.png` ngay từ bước khởi động ban đầu, cập nhật bản quyền DH và tự động quét ẩn nhóm Trợ giúp trên ExplorerBar/Menu khi `DHHIS_BANQUYEN=1`.
 - 🐛: Khắc phục việc menu Trợ giúp chưa bị ẩn trên Janus ExplorerBar và ảnh nền FrmHome phải đợi sau khi đăng nhập mới hiển thị.
