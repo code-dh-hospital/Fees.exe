@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0921.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609210-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [OTH.Entity, OTH.Adapter, OTH.XForms] Hỗ trợ thêm cột Địa chỉ bệnh nhân trên Form và khi xuất ra Excel của Báo cáo doanh thu PK 123 Hùng Vương trên 5 tab (Thuốc DV chưa VAT, Thuốc DV có VAT, Thuốc BHYT, CLS DV, CLS BHYT).
+- 🐛:
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/921#issuecomment-36123 (hdhiswork/YEUCAU#921)
+- 📗: Lấy thông tin địa chỉ từ trường `current.dmbenhnhan.diachi`.
+- 📕: Mở phân hệ Viện phí -> Menu "Báo cáo doanh thu PK 123 Hùng Vương" (`mnChiTietDoanhThu_PK123_BK`), xem và xuất Excel dữ liệu có cột Địa chỉ bệnh nhân theo mô tả [Bổ sung cột địa chỉ bệnh nhân trên Form và xuất Excel Báo cáo doanh thu Phòng khám 123 Hùng Vương](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/FEES/Mo-ta-Fees-Ho-tro-them-cot-dia-chi-bao-cao-doanh-thu-PK123.md)
+
+![](https://images-worker.tlt25.workers.dev/i/01a0be85-a8cc-7ab4-8dbe-1cf847ce5447)
+![](https://images-worker.tlt47.workers.dev/i/01a0be85-82fc-732c-8b76-9c4a7632d1b0)
+
 ## [v.3.26.0911.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609110-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Tích hợp cấu hình BuildZip|AnyCPU (xuất bin\BuildZip) + Pre/PostBuildEvent gọi visualstudio-external-tool.js; nhận Resources/Roo.Exe.dll.zip đóng gói tự động khi build Roo.Exe
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/845
