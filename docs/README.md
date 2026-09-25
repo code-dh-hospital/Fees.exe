@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0925.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609250-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Fees Hỗ trợ chức năng Đồng bộ hóa đơn cuối ngày của Viettel thể hiện nội dung thu chi tiết (tách từng dòng dịch vụ CLS và thuốc khớp 100% số tiền thực thu).
+- 🐛: Khắc phục lỗi ép kiểu Int32 trong LoadThuChi khi OID lớn hơn 2 tỷ và sửa lỗi fallback gom 1 dòng lý do thu khi đồng bộ hóa đơn Viettel cuối ngày.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/910
+- 📗: current.thuchi, current.chidinhcls, current.pshdxn, current.dmcls, current.dmthuoc, current.coderun (hddt_allhisoption).
+- 📕: Giao diện form XFrmSync (Menu mnViettelDongBoCuoiNgay trên FrmMain phân hệ Viện phí Fees).
+
 ## [v.3.26.0921.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609210-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [OTH.Entity, OTH.Adapter, OTH.XForms] Hỗ trợ thêm cột Địa chỉ bệnh nhân trên Form và khi xuất ra Excel của Báo cáo doanh thu PK 123 Hùng Vương trên 5 tab (Thuốc DV chưa VAT, Thuốc DV có VAT, Thuốc BHYT, CLS DV, CLS BHYT).
 - 🐛:
