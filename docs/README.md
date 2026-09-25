@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0925.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609251-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Fees Hỗ trợ chức năng Đồng bộ hóa đơn cuối ngày của Viettel thể hiện nội dung thu chi tiết (tách từng dòng dịch vụ CLS và thuốc khớp 100% số tiền thực thu).
+- 🐛: Khắc phục lỗi ép kiểu Int32 trong LoadThuChi khi OID lớn hơn 2 tỷ và sửa lỗi fallback gom 1 dòng lý do thu khi đồng bộ hóa đơn Viettel cuối ngày.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/910
+- 📗: current.thuchi, current.chidinhcls, current.pshdxn, current.dmcls, current.dmthuoc, current.coderun (hddt_allhisoption).
+- 📕: Giao diện form XFrmSync (Menu mnViettelDongBoCuoiNgay trên FrmMain phân hệ Viện phí Fees). Sử dụng OTH.Adapter.ApiHddt.SetDetailInvoiceInfoByChitietClsThuoc + LoadInvoiItemVienPhi để tách chi tiết từng dòng CLS/thuốc.
+
 ## [v.3.26.0925.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609250-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Fees Hỗ trợ chức năng Đồng bộ hóa đơn cuối ngày của Viettel thể hiện nội dung thu chi tiết (tách từng dòng dịch vụ CLS và thuốc khớp 100% số tiền thực thu).
 - 🐛: Khắc phục lỗi ép kiểu Int32 trong LoadThuChi khi OID lớn hơn 2 tỷ và sửa lỗi fallback gom 1 dòng lý do thu khi đồng bộ hóa đơn Viettel cuối ngày.
