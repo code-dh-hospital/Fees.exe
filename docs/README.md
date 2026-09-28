@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0928.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609280-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Nâng cấp control chọn nhân viên dạng SearchLookUpEdit đa cột (tìm kiếm nhanh theo manv, họ tên, tài khoản) và hoàn thiện bộ lọc khi lấy lại dữ liệu
+- 🐛: Khắc phục lỗi khuyết thông tin Họ tên, Ngày sinh, Địa chỉ của khách hàng xuất bán lẻ thuốc trên báo cáo giao dịch VietinBank
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/915
+- 📗: Dùng SearchLookUpEdit với 3 cột (manv, hoten, taikhoan) có Find Box; lưu raw data và duy trì bộ lọc nhân viên khi loadData() hoặc đổi tab; truy vấn fallback khách hàng bán lẻ từ current.chungtu
+- 📕: Tại form Quản trị giao dịch VietinBank, người dùng có thể tìm kiếm nhanh nhân viên theo mã hoặc tên trong danh sách lớn và lọc riêng các giao dịch của nhân viên đó khi xem, lấy lại dữ liệu hoặc in báo cáo giao dịch (XRptBCGiaodichThanhtoan)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-915/debug-image-fees-xfrmexchanges-danhsach-khachhang-banle.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-915/debug-image-fees-xfrmexchanges-loc-theo-nhanvien.png)
+
 ## [v.3.26.0925.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609251-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Fees Hỗ trợ chức năng Đồng bộ hóa đơn cuối ngày của Viettel thể hiện nội dung thu chi tiết (tách từng dòng dịch vụ CLS và thuốc khớp 100% số tiền thực thu).
 - 🐛: Khắc phục lỗi ép kiểu Int32 trong LoadThuChi khi OID lớn hơn 2 tỷ và sửa lỗi fallback gom 1 dòng lý do thu khi đồng bộ hóa đơn Viettel cuối ngày.
