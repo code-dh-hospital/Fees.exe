@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0930.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609300-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Hỗ trợ tích hợp Hóa đơn điện tử MISA meInvoice Web OpenAPI (Nghị định 123/TT 78) bao gồm các nghiệp vụ: lấy token xác thực, phát hành hóa đơn điện tử, thay thế hóa đơn, xóa hóa đơn (chuyển về 0 đồng) và tải hóa đơn bản PDF/XML.
+- 🐛: Bổ sung nhận diện mã lỗi chi tiết từ MISA Web OpenAPI (InvoiceNotExist, DuplicateInvoiceRefID,...) và chuẩn hóa ký hiệu hóa đơn thay thế 6 ký tự.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/880
+- 📗: Bổ sung cấu hình MisaWeb (urlPortal, appid, taxcode, username, password) vào trường hddt_allhisoption trong bảng current.coderun; lưu TransactionID vào cột current.thuchi.matracuu_hddt.
+- 📕: Tại phân hệ Viện phí (Fees), người dùng cấu hình thông tin kết nối MISA Web OpenAPI trong Tùy chọn HIS; thực hiện phát hành HĐĐT tại FrmCPhiBenhNhan; thực hiện thay thế hóa đơn khi điều chỉnh thông tin/chi phí; xóa hóa đơn và tải hóa đơn xem trước/in ấn trực tiếp từ MISA Web.
+![](https://i.vgy.me/OSXmmf.png)
+![](https://i.vgy.me/MEAx3T.png)
+![](https://i.vgy.me/8Gunhb.png)
+
 ## [v.3.26.0928.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609280-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Nâng cấp control chọn nhân viên dạng SearchLookUpEdit đa cột (tìm kiếm nhanh theo manv, họ tên, tài khoản) và hoàn thiện bộ lọc khi lấy lại dữ liệu
 - 🐛: Khắc phục lỗi khuyết thông tin Họ tên, Ngày sinh, Địa chỉ của khách hàng xuất bán lẻ thuốc trên báo cáo giao dịch VietinBank
