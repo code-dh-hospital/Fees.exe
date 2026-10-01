@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.1001.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610010-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Cập nhật thư viện OTH.Entity.dll đồng bộ enum v_UseHddtBy.MisaWeb, khắc phục lỗi mất menu Hóa đơn điện tử (mnHddt) trên giao diện chính phân hệ Viện phí (Fees)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/880
+- 📕: Cập nhật các DLL mới nhất (OTH.Entity, OTH.Adapter, OTH.XForms) hỗ trợ cấu hình và phát hành hóa đơn điện tử MISA Web OpenAPI
+![](https://i.vgy.me/OZZ6Ws.jpg)
+
 ## [v.3.26.0930.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32609300-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Hỗ trợ tích hợp Hóa đơn điện tử MISA meInvoice Web OpenAPI (Nghị định 123/TT 78) bao gồm các nghiệp vụ: lấy token xác thực, phát hành hóa đơn điện tử, thay thế hóa đơn, xóa hóa đơn (chuyển về 0 đồng) và tải hóa đơn bản PDF/XML.
 - 🐛: Bổ sung nhận diện mã lỗi chi tiết từ MISA Web OpenAPI (InvoiceNotExist, DuplicateInvoiceRefID,...) và chuẩn hóa ký hiệu hóa đơn thay thế 6 ký tự.
