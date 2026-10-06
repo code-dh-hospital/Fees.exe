@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.1006.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610060-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: [HosFees.DataAccess] Sửa lỗi tính trùng tiền chênh lệch dịch vụ cận lâm sàng vào Biên lai khi chenhlech = 0 dẫn đến sai tổng phát sinh nợ và số tiền trả lại bệnh nhân tại phân hệ Viện phí (Fees)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1029
+- 📕: [HosFees.DataAccess] Bổ sung điều kiện kiểm tra if (chenhlech == 0) return 0; tại các thuộc tính TotalThemCLS, TotalThemCLSChuaThu, TotalThemCLSDaThu trong class CanLamSangV2 (HosFees.DataAccess)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1029/debug-image-fees-thuphinoidru-govp-dungtien.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1029/debug-image-fees-thuphinoidru-tamminhduc-loi830.png)
+
 ## [v.3.26.1001.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610010-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Cập nhật thư viện OTH.Entity.dll đồng bộ enum v_UseHddtBy.MisaWeb, khắc phục lỗi mất menu Hóa đơn điện tử (mnHddt) trên giao diện chính phân hệ Viện phí (Fees)
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/880
