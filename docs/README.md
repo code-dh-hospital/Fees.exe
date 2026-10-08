@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.1008.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610080-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Sửa lỗi tự động lấy số CCCD vào phiếu thu khi thu Dịch vụ, Thuốc NT, Lập phiếu, Phiếu thu NB, CLS không BHYT theo cấu hình V_TuDongLayCCCD
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1030
+- 📗: Kiểm tra cấu hình tại bảng current.coderun (mã hddt_allhisoption), tham số V_TuDongLayCCCD = 1 và sudung = true
+- 📕: Tại giao diện Thu chi phí bệnh nhân (HosFees.FormsV2.FrmCPhiBenhNhan), khi nhấn các nút thu (btnDichVu, btnThuocNT, btnLap, btnPhieuThuNB, btnCLSKhongBHYT), hệ thống tự động gán CCCD từ txtCMND_BN xuống txtCCCD_PT nếu cấu hình V_TuDongLayCCCD được bật, đồng bộ với hành vi của nút btnThem.
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1030/debug-image-fees-cphibenhnhan-lay-cccd-dichvu.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1030/debug-image-fees-cphibenhnhan-lay-cccd-thuocnt.png)
+
 ## [v.3.26.1007.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610071-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Chuẩn hóa toàn bộ các câu lệnh truy vấn nạp dữ liệu chi phí bệnh nhân, hóa đơn, bảng kê biên lai viện phí sử dụng OTH.Common.ClsSqlOidHelper.CastOid(...) và đồng bộ build Fees.exe phòng ngừa lỗi tràn số OID > 2.14 tỷ
 - 🐛: Khắc phục triệt để lỗi OverflowException / ArgumentException khi load chi phí điều trị, hóa đơn viện phí và đồng bộ hóa đơn điện tử trên các cơ sở dữ liệu có OID vượt ngưỡng 2.14 tỷ
