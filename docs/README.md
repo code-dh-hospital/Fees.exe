@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.1009.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610090-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Bổ sung lại mã CSKCB 79426 - Viện Y Dược Học Dân Tộc (TP HCM) vào danh sách đơn vị MaBVBH
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/953
+- 📕: Cấp key bản quyền HIS cho Viện Y Dược Học Dân Tộc sử dụng phân hệ theo hợp đồng
+
 ## [v.3.26.1008.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610082-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610082-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610082-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Phân hệ Viện phí (Fees): Chức năng Lập hóa đơn tổng (XFrmHoaDonTong) hỗ trợ thể hiện chi tiết nội dung từng dịch vụ CLS/Kỹ thuật khi phát hành HĐĐT MISA và bổ sung trường nhập Email khách hàng để MISA tự động gửi email hóa đơn.
 - 🐛: Khắc phục lỗi hóa đơn tổng gửi sang MISA bị gộp 1 dòng duy nhất theo lý do thu; bổ sung lưu trường email cho hóa đơn tổng và tích hợp truyền sang API MISA.
