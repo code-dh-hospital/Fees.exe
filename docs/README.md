@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1015.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610150-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Sửa lỗi Fees không load đúng thông tin masothue, tendonvibn, cccd, qhns khi lập phiếu thu tổng theo bệnh nhân (XFrmHoaDonTongTheoBN) và hóa đơn tổng cuối ngày (XFrmHoaDonTong) (LOI #1042); bổ sung kiểm tra lệch thông tin, FormatRule tô màu và sort dòng lệch lên đầu, ComboBox chọn nhanh hoặc gõ trực tiếp trên dòng lệch; reset DataSource gridPhieuthuTH về null khi Bỏ qua; cấu hình hiển thị 23 cột chuẩn qua hàm dùng chung InitColumn. Cập nhật các DLL liên quan: OTH.Entity, OTH.XForms.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1042
+- 📗: current.thuchi (cột masothue, tendonvibn, cccd, qhns, diachi, soctbltong)
+- 📕: Phân hệ Fees - Menu Hóa đơn điện tử -> Đồng bộ hóa đơn cuối ngày - Theo bệnh nhân (XFrmHoaDonTongTheoBN) & Lập hóa đơn tổng hợp cuối ngày (XFrmHoaDonTong)
+![](https://i.vgy.me/0Z0b3O.png)
+![](https://i.vgy.me/iliom7.png)
+![](https://i.vgy.me/jLkj6Z.png)
+
 ## [v.3.26.1009.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610090-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Bổ sung lại mã CSKCB 79426 - Viện Y Dược Học Dân Tộc (TP HCM) vào danh sách đơn vị MaBVBH
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/953
