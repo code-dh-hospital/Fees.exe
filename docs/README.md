@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.26.1016.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610160-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung trường thông tin Email và cơ chế tự động gán email trên các form thu tiền: FrmCPhiBenhNhan (Thu phí bệnh nhân), FrmCanLamSang (Thu Cận lâm sàng / Thu tự do), FrmChiTra (Thu tự do / Chi trả), và form lập hóa đơn tổng XFrmHoaDonTongTheoBN. Hỗ trợ tự động điền email từ phiếu thu gần nhất hoặc danh mục bệnh nhân và xuất hóa đơn điện tử.
+- 🐛: Đồng bộ dữ liệu email khi lập hóa đơn điện tử cho các phiếu thu và hóa đơn tổng theo bệnh nhân.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/960
+- 📗: current.thuchi (cột email), current.dmbenhnhan (cột email)
+- 📕: Phân hệ Viện phí (Fees): Thu phí bệnh nhân (FrmCPhiBenhNhan), Thu CLS/Thu tự do (FrmCanLamSang), Chi trả/Thu tự do (FrmChiTra), Đồng bộ hóa đơn cuối ngày theo bệnh nhân (XFrmHoaDonTongTheoBN).
+![](https://i.vgy.me/P2GFLd.png)
+![](https://i.vgy.me/xrddoy.png)
+![](https://i.vgy.me/h6CCY7.png)
+![](https://i.vgy.me/xcAl7P.png)
+
 ## [v.3.26.1015.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610152-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610152-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32610152-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Build lại Fees.exe đồng bộ với OTH.XForms.dll (v.1.26.1015.0) mới nhất trên dhlibraries; khắc phục tình trạng Fees.exe bị build trước OTH.XForms.dll trên CI Bot khiến form lập hóa đơn tổng theo bệnh nhân chưa nạp thay đổi mới (LOI #1042).
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1042
