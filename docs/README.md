@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.1105.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32611050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32611050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32611050-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ phát hành lại Fees.exe theo bản cập nhật thư viện OTH.Adapter mới nhất (bổ sung key sync_misa).
+- 🐛: Cập nhật thư viện dùng chung cho toàn hệ thống phần mềm DH-HIS.
+- ☑: [YEUCAU Issue #1000](https://i.dh-his.com/hdhiswork/YEUCAU/issues/1000)
+- 📗: Cơ sở dữ liệu `nghia_vienydhdt` (Viện Y Dược Học Dân Tộc TP.HCM, mã CSKCB `79426`), bảng `current.coderun` (`code = 'MabvIsUsePrivateCodeBy'`).
+- 📕: Thực hiện theo mô tả [Mo-ta-Medicine-Dong-bo-chung-tu-nhap-kho-Misa-Amis.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CHUC-NANG-RIENG/Mo-ta-Medicine-Dong-bo-chung-tu-nhap-kho-Misa-Amis.md)
+
 ## [v.3.26.1103.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32611030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32611030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32611030-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [HosFees.BusinessLogic, HosFees] Đồng bộ logic khấu trừ tiền dịch vụ CLS thanh toán nguồn khác vào cùng chi trả và đồng chi trả CLS ngoại trú.
 - 🐛: Sửa lỗi phân hệ Viện phí tính sai tiền bệnh nhân cùng chi trả đối với cận lâm sàng thanh toán nguồn khác (BV Cái Răng).
