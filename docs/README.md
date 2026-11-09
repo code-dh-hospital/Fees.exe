@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.1109.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32611090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32611090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32611090-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Cập nhật DLL liên quan: HosFees (sửa lỗi NullReferenceException tại SetEmailTuDong khi lập phiếu thu bệnh án ngoại trú)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1082
+- 📗: Bổ sung định nghĩa cột email trên layout NoiTru và dgChungTu
+- 📕: Mở phân hệ Viện phí (Fees) -> Thu phí Bệnh án ngoại trú -> Chọn bệnh nhân BANT -> Bấm Lập phiếu thu
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1082/debug-image-fees-frmcphibenhnhan-bangoaitru-email.png)
+
 ## [v.3.26.1105.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32611050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32611050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FFeesexe%2F32611050-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ phát hành lại Fees.exe theo bản cập nhật thư viện OTH.Adapter mới nhất (bổ sung key sync_misa).
 - 🐛: Cập nhật thư viện dùng chung cho toàn hệ thống phần mềm DH-HIS.
